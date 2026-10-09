@@ -149,6 +149,26 @@ In April 2026, a jury found him **guilty** of battery in that second case. He st
 
 In the first case, a jury found him **not guilty** (Scientology Money Project, 2026).
 
+![Northcliffe House in London](/assets/images/2026-10-08/northcliffe_house_commons.jpg)
+*Northcliffe House in London, headquarters of the Daily Mail's parent company. Photo: Alex.muller, CC BY-SA 3.0, via Wikimedia Commons.*
+
+**7. MailOnline.** In 2015 it ran a story built on interviews with ex-members about the Church's leader. He filed a complaint with IPSO, the U.K. press watchdog. In 2016 IPSO ruled **against** MailOnline. It said the site didn't show it had taken care to be accurate or included his denials. MailOnline wouldn't even defend the story. IPSO ordered it to post the ruling on its homepage for **24 hours** (IPSO, 2016; Guardian, 2016).
+
+![Paul Haggis](/assets/images/2026-10-08/paul_haggis_2013_commons.jpg)
+*Paul Haggis, 2013. Photo: Canadian Film Centre, CC BY 2.0, via Wikimedia Commons.*
+
+**8. Paul Haggis.** The Oscar-winning director is one of the best-known ex-Scientologists. In 2022 a New York jury found him liable in a civil rape lawsuit. It ordered him to pay **$10 million** (Reuters, 2022). He blamed the case on a Church plot. *Variety* reported that **no evidence** of that ever came out. He denied the claim and later settled for about **$2 million**, with no admission of fault (Variety, 2026).
+
+![Audiencia Nacional building in Madrid](/assets/images/2026-10-08/audiencia_nacional_madrid_commons.jpg)
+*Spain's National Court (Audiencia Nacional) in Madrid. Photo: FDV, CC BY-SA 4.0, via Wikimedia Commons.*
+
+**9. Spain's Justice Ministry.** In 2005 the ministry refused to list the Church of Scientology of Spain as a religious group. In 2007 Spain's National Court threw out that refusal. It ruled the Church had the **right** to be registered as a religious entity (Audiencia Nacional, 2007; Spanish Ministry of the Presidency).
+
+![European Court of Human Rights, Strasbourg](/assets/images/2026-10-08/echr_strasbourg_commons.jpg)
+*The European Court of Human Rights in Strasbourg, France. Photo: Gzen92, CC BY-SA 4.0, via Wikimedia Commons.*
+
+**10. Russia, again and again.** The Moscow loss above wasn't the last. In 2009 Europe's human rights court ruled **unanimously** that Russia broke Scientologists' religious freedom by refusing to register their churches in two cities. In 2014 it ruled against Russia **again** over St. Petersburg. That makes at least **3** losses in Strasbourg (ECHR, 2009; ECHR, 2014).
+
 ## Treat us like anyone else
 
 You don't have to agree with my faith. I don't need you to.
@@ -212,6 +232,11 @@ Hate is hate. Even when it's trending.
 37. Pinellas County Sheriff's Office, booking record for case 25-15304-MM (battery, Fla. Stat. 784.03; booked Apr. 14, 2026; released to probation May 4, 2026): https://www.pinellassheriff.gov/InmateBooking/SubjectResults.aspx?id=2030272 ; The Scientology Money Project, "Aaron Smith-Levin Found Guilty of Misdemeanor Battery Charge in Pinellas County, Florida" (Apr. 14, 2026): https://scientologymoneyproject.com/2026/04/14/aaron-smith-levin-found-guilty-of-misdemeanor-battery-charge-in-pinellas-county-florida/
 38. STAND (Scientologists Taking Action Against Discrimination), "Aaron Smith-Levin, Aftermath Founding Board Member, Convicted and Jailed for Assaulting a Scientologist" (May 13, 2026): https://www.standleague.org/newsroom/blog/aaron-smith-levin-aftermath-founding-board-member-convicted-and-jailed-for-assaulting-a-scientologist-01085a
 39. The Scientology Money Project, "Aaron Smith-Levin: Not Guilty" (Mar. 3, 2026): https://scientologymoneyproject.com/2026/03/03/aaron-smith-levin-not-guilty-prosecutor-scientology-lose-in-court/
+40. IPSO, *Miscavige v Mail Online*, ruling 01450-16 (published July 19, 2016): https://www.ipso.co.uk/rulings/01450-16/ ; The Guardian, "Scientology leader's complaint over Mail Online's Tom Cruise story upheld" (July 19, 2016): https://www.theguardian.com/media/2016/jul/19/scientology-mail-online-tom-cruise-david-miscavige
+41. Reuters, "Oscar-winner Paul Haggis must pay total of $10 million in civil rape case" (Nov. 14, 2022): https://www.reuters.com/legal/oscar-winner-paul-haggis-must-pay-total-10-million-civil-rape-case-2022-11-14/ ; AP, "Jury tells filmmaker Haggis to pay $10M total in rape suit" (Nov. 14, 2022): https://apnews.com/article/entertainment-movies-lawsuits-paul-haggis-c12bd93280bc86eff399fcbf6cbf81e7
+42. Variety, "Paul Haggis Settles With Rape Accuser for $2 Million" (Jan. 9, 2026): https://variety.com/2026/film/news/paul-haggis-rape-accuser-2-million-1236627708/
+43. Audiencia Nacional (Spain), Sala de lo Contencioso-Administrativo, Sección 3, SAN 4394/2007, recurso 352/2005 (Oct. 11, 2007), full text: https://www.cesnur.org/2007/sc_10_11.htm ; listed by Spain's Ministry of the Presidency: https://www.mpr.gob.es/mpr/subse/libertad-religiosa/paginas/jurisprudencia-interes/personalidad-juridica.aspx
+44. European Court of Human Rights, *Kimlya and Others v. Russia*, nos. 76836/01 and 32782/03 (Oct. 1, 2009): https://www.bailii.org/eu/cases/ECHR/2009/1424.html ; *Church of Scientology of St Petersburg and Others v. Russia*, no. 47191/06 (Oct. 2, 2014): http://www.bailii.org/eu/cases/ECHR/2014/1019.html
 
 **Photos**
 - Clearwater Flag Building: "Scientology Clearwater headquarters.JPG," Taty2007, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Scientology_Clearwater_headquarters.JPG
@@ -219,3 +244,7 @@ Hate is hate. Even when it's trending.
 - Haiti: "Scientology Volunteer Ministers in Haiti - February 2010," Scientology Volunteer Ministers, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Scientology_Volunteer_Ministers_in_Haiti_-_February_2010.jpg
 - Hollywood cleanup and Super Bowl: Scientology Newsroom (scientologynews.org) press images.
 - John Sweeney: Richardc39, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:John_Sweeney.jpg
+- Northcliffe House: "Northcliffe House 2008 06 21.jpg," Alex.muller, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Northcliffe_House_2008_06_21.jpg
+- Paul Haggis: "Paul Haggis, Canadian Film Centre, 2013 (cropped).jpg," Canadian Film Centre, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Paul_Haggis,_Canadian_Film_Centre,_2013_(cropped).jpg
+- Audiencia Nacional: "Audiencia-Nacional-141115.jpg," FDV, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Audiencia-Nacional-141115.jpg
+- European Court of Human Rights: "Cour européenne des droits de l'homme (Strasbourg) (2).jpg," Gzen92, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cour_europ%C3%A9enne_des_droits_de_l%27homme_(Strasbourg)_(2).jpg
