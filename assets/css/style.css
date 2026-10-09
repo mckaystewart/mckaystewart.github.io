@@ -20,7 +20,6 @@ h1{font-size:2.3rem;margin:.2rem 0 .4rem}
 .post-header{margin-bottom:1.5rem}
 img{max-width:100%;height:auto;display:block;margin:1.6rem auto .4rem;border:1px solid var(--rule);border-radius:3px}
 .post-body p:has(> img){font-size:.88rem;color:var(--muted);line-height:1.5;text-align:center}
-.post-body p:has(> img) em{display:block}
 blockquote{margin:1.5rem 0;padding:.8rem 1.2rem;border-left:4px solid var(--accent);background:var(--quote);border-radius:0 4px 4px 0}
 blockquote p{margin:.3rem 0}
 blockquote.pullquote{font-size:1.3rem;line-height:1.55;font-style:italic;border-left-width:6px;padding:1.2rem 1.5rem;margin:2rem 0}
