@@ -109,27 +109,18 @@ Volunteers hand out *Truth About Drugs* booklets at big events. The group says i
 
 I'm only naming cases where a court, an apology, or the person's own words make the record clear.
 
-**1. Anonymous's 2008 cyberattack.** Two men pleaded guilty to knocking Church websites offline. One got a year and a day in federal prison (DOJ, 2010). At the other's sentencing, the judge said the attack had "a sense of hate crime" (AP, 2010).
+**1. The Sunday Express.** In 2007 it reported that author Andrew Morton was threatened by Scientologists. The paper later admitted **the story wasn't true** and apologized (Irish Examiner, 2007).
 
-![Keith Henson](/assets/images/2026-10-08/keith_henson_commons.jpg)
-*Keith Henson. Photo: Keith Henson, CC BY-SA 3.0, via Wikimedia Commons.*
-
-**2. Keith Henson.** A jury convicted him in 2001 of using threats to interfere with Scientologists' freedom of religion. That's a California hate-crime law (Wired, 2001).
-
-**3. The Sunday Express.** In 2007 it reported that author Andrew Morton was threatened by Scientologists. The paper later admitted **the story wasn't true** and apologized (Irish Examiner, 2007).
-
-**4. The Sun.** In 2013, after a letter from Church lawyers, it printed an "apology"... to "alien lifeforms" for linking them to Scientologists (Poynter, 2013). A joke made out of a correction.
+**2. The Sun.** In 2013, after a letter from Church lawyers, it printed an "apology"... to "alien lifeforms" for linking them to Scientologists (Poynter, 2013). A joke made out of a correction.
 
 ![John Sweeney](/assets/images/2026-10-08/john_sweeney_2014_commons.jpg)
 *John Sweeney speaking about Scientology in Liverpool, 2014. Photo: Richardc39, CC BY-SA 3.0, via Wikimedia Commons.*
 
-**5. BBC Panorama.** In 2007, reporter John Sweeney screamed at a Church spokesman on camera. The BBC called it "clearly inappropriate," and Sweeney apologized (Digital Spy, 2007).
+**3. BBC Panorama.** In 2007, reporter John Sweeney screamed at a Church spokesman on camera. The BBC called it "clearly inappropriate," and Sweeney apologized (Digital Spy, 2007).
 
-**6. Belgian prosecutors.** After an 18-year case, a Brussels judge threw out every charge in 2016. His words: "The defendants were prosecuted primarily because they were Scientologists" (AFP/Guardian, 2016).
+**4. Belgian prosecutors.** After an 18-year case, a Brussels judge threw out every charge in 2016. His words: "The defendants were prosecuted primarily because they were Scientologists" (AFP/Guardian, 2016).
 
-**7. The "speedrun" trend.** In 2026, TikTokers raced through Church buildings for views. One creator's video hit about **90 million views** (Hollywood Reporter, 2026). Copycats followed. In New York, a mob forced its way into a church near Times Square. Police later charged two men with burglary, criminal mischief and assault, all as hate crimes (ABC7, 2026; NY Post, 2026). Police in L.A. and Seattle opened hate-crime investigations (NBC, 2026; Seattle Times, 2026).
-
-**8. Leah Remini.** A&E paid her to host and executive-produce *Scientology and the Aftermath* (2016–2019). Then she signed an overall deal with A+E Networks (Deadline, 2018).
+**5. Leah Remini.** A&E paid her to host and executive-produce *Scientology and the Aftermath* (2016–2019). Then she signed an overall deal with A+E Networks (Deadline, 2018).
 
 In 2013 she filed a missing-person report on the church leader's wife. Police found her "alive and safe" and called the report **"unfounded"** (LAPD, 2022; THR, 2013). Later, her lawyers sent the Church letters seeking up to **$1 million** (Calif. Court of Appeal, 2026).
 
@@ -142,7 +133,7 @@ Her 2023 lawsuit? A judge struck about **half of nearly 100** of her claims. The
 ![The Church of Scientology's Flag Building in Clearwater](/assets/images/2026-10-08/scientology_clearwater_commons.jpg)
 *The Church of Scientology's Flag Building in downtown Clearwater, Florida. Photo: Taty2007, CC BY-SA 4.0, via Wikimedia Commons.*
 
-**9. Aaron Smith-Levin.** He runs an anti-Scientology YouTube channel with about **257,000 subscribers** (YouTube, 2026). He ran for Clearwater City Council in 2022 and lost (Florida Politics, 2025).
+**6. Aaron Smith-Levin.** He runs an anti-Scientology YouTube channel with about **257,000 subscribers** (YouTube, 2026). He ran for Clearwater City Council in 2022 and lost (Florida Politics, 2025).
 
 In July 2025, police arrested him in Clearwater for battery on a Church security guard. A court later ordered him to have no contact with the guard (Florida Politics, 2025).
 
@@ -197,32 +188,25 @@ Hate is hate. Even when it's trending.
 22. Scientology Newsroom, "Drug-Free World Tackles Drug Abuse at Super Bowl LIX" (2025): https://www.scientologynews.org/press-releases/drug-free-world-tackles-drug-abuse-at-super-bowl-lix.html
 
 **The record**
-23. U.S. Attorney's Office, C.D. Cal., Release No. 09-015 (Jan. 25, 2010): https://www.justice.gov/archive/usao/cac/Pressroom/pr2010/015.html
-24. AP via NBC News, "Man sentenced in Scientology cyber attack" (May 24, 2010): https://www.nbcnews.com/id/wbna37326037
-25. Wired, "Scientology Critic Convicted" (Apr. 2001): https://www.wired.com/2001/04/scientology-critic-convicted/
-26. Irish Examiner, "Apology to Church of Scientology" (Dec. 20, 2007): https://www.irishexaminer.com/lifestyle/arid-30341378.html
-27. Poynter, "U.K.'s Sun mocks Scientology with apology to alien lifeforms" (June 13, 2013): https://www.poynter.org/reporting-editing/2013/u-k-s-sun-mocks-scientology-with-apology-to-alien-lifeforms/
-28. Digital Spy, "BBC man rebuked over Scientology show" (May 14, 2007): https://www.digitalspy.com/media/a46509/bbc-man-rebuked-over-scientology-show/ ; The Guardian (May 13, 2007): https://www.theguardian.com/media/2007/may/13/broadcasting.bbc
-29. AFP via The Guardian, "Scientology criminal enterprise case thrown out by Belgian judge" (Mar. 11, 2016): https://www.theguardian.com/world/2016/mar/11/scientology-criminal-enterprise-case-thrown-out-belgian-judge
-30. The Hollywood Reporter, "A TikToker's Scientology 'Run' Inspired a Trend. He Says It's Too Far" (Apr. 23, 2026): https://www.hollywoodreporter.com/news/general-news/tiktoker-scientology-run-inspired-a-trend-1236573730/
-31. ABC7 New York, "Video shows mob ransacking Church of Scientology in Midtown Manhattan" (May 2026): https://abc7ny.com/post/video-shows-mob-storming-church-scientology-new-york-city/19031313/ ; New York Post, "Crazy video shows mob ransack NYC Scientology church as 3 busted..." (May 25, 2026): https://nypost.com/2026/05/25/us-news/crazy-video-shows-mob-ransack-nyc-scientology-church-as-3-busted-for-possible-social-media-stunt/
-32. NBC News, "Church of Scientology blasts TikTok 'speed running' trend as viral videos circulate" (Apr. 30, 2026): https://www.nbcnews.com/news/us-news/church-of-scientology-blasts-tiktok-speedrunning-trend-rcna342747
+23. Irish Examiner, "Apology to Church of Scientology" (Dec. 20, 2007): https://www.irishexaminer.com/lifestyle/arid-30341378.html
+24. Poynter, "U.K.'s Sun mocks Scientology with apology to alien lifeforms" (June 13, 2013): https://www.poynter.org/reporting-editing/2013/u-k-s-sun-mocks-scientology-with-apology-to-alien-lifeforms/
+25. Digital Spy, "BBC man rebuked over Scientology show" (May 14, 2007): https://www.digitalspy.com/media/a46509/bbc-man-rebuked-over-scientology-show/ ; The Guardian (May 13, 2007): https://www.theguardian.com/media/2007/may/13/broadcasting.bbc
+26. AFP via The Guardian, "Scientology criminal enterprise case thrown out by Belgian judge" (Mar. 11, 2016): https://www.theguardian.com/world/2016/mar/11/scientology-criminal-enterprise-case-thrown-out-belgian-judge
 
-33. Deadline, "Leah Remini Inks First-Look Development Deal With A+E Networks" (Apr. 13, 2018): https://deadline.com/2018/04/leah-remini-first-look-development-deal-ae-networks-scientology-1202363407/ ; IPC/A&E premiere release (Oct. 27, 2016): https://theipcorp.com/eight-episode-ipc-series-leah-remini-scientology-and-the-aftermath-will-premiere-tuesday-november-29th-at-10pm-on-ae/
-34. LAPD, "LAPD Responds to Comments Made by Leah Remini" NR22330jl (Nov. 14, 2022): https://www.lapdonline.org/newsroom/lapd-responds-to-comments-made-by-leah-remini-nr22330jl/ ; The Hollywood Reporter, "LAPD Rules Shelly Miscavige Missing Persons Report 'Unfounded'" (Aug. 8, 2013): https://www.hollywoodreporter.com/news/general-news/leah-remini-leaves-scientology-lapd-602860/
-35. California Court of Appeal, 2d Dist., Div. 2, *Remini v. Church of Scientology International*, No. B337765 (filed July 31, 2026; unpublished), appeal from L.A. Super. Ct. No. 23STCV18300: https://www.courthousenews.com/wp-content/uploads/2026/07/remini-scientology-appeals-ruling.pdf ; Courthouse News, "Appeals court gives Leah Remini's defamation suit against Church of Scientology another trim": https://www.courthousenews.com/appeals-court-gives-leah-reminis-defamation-suit-against-church-of-scientology-another-trim/
-36. Variety, "Judge Tosses Parts of Leah Remini's Lawsuit Against Scientology" (Mar. 2024): https://variety.com/2024/tv/news/leah-remini-lawsuit-scientology-ruling-anti-slapp-1235942074/ ; Deadline (Mar. 14, 2024): https://deadline.com/2024/03/scientology-leah-remini-lawsuit-latest-1235857866/
-37. Church of Scientology International, "Aftermath of the Aftermath": https://www.leahreminiaftermath.com/ ; Church statement concerning Leah Remini: https://www.scientologynews.org/statements/abc-news/church-of-scientology-statement-leah-remini.html
-38. YouTube, *Growing Up in Scientology* channel (@growingupinscientology), subscriber count checked Oct. 8, 2026: https://www.youtube.com/@growingupinscientology
-39. Florida Politics, "Anti-Scientologist and former Clearwater candidate back in jail after bond revocation" (Nov. 20, 2025): https://floridapolitics.com/archives/766593-anti-scientologist-and-former-clearwater-candidate-back-in-jail-after-bond-revocation/
-40. Pinellas County Sheriff's Office, booking record for case 25-15304-MM (battery, Fla. Stat. 784.03; booked Apr. 14, 2026; released to probation May 4, 2026): https://www.pinellassheriff.gov/InmateBooking/SubjectResults.aspx?id=2030272 ; The Scientology Money Project, "Aaron Smith-Levin Found Guilty of Misdemeanor Battery Charge in Pinellas County, Florida" (Apr. 14, 2026): https://scientologymoneyproject.com/2026/04/14/aaron-smith-levin-found-guilty-of-misdemeanor-battery-charge-in-pinellas-county-florida/
-41. STAND (Scientologists Taking Action Against Discrimination), "Aaron Smith-Levin, Aftermath Founding Board Member, Convicted and Jailed for Assaulting a Scientologist" (May 13, 2026): https://www.standleague.org/newsroom/blog/aaron-smith-levin-aftermath-founding-board-member-convicted-and-jailed-for-assaulting-a-scientologist-01085a
-42. The Scientology Money Project, "Aaron Smith-Levin: Not Guilty" (Mar. 3, 2026): https://scientologymoneyproject.com/2026/03/03/aaron-smith-levin-not-guilty-prosecutor-scientology-lose-in-court/
+27. Deadline, "Leah Remini Inks First-Look Development Deal With A+E Networks" (Apr. 13, 2018): https://deadline.com/2018/04/leah-remini-first-look-development-deal-ae-networks-scientology-1202363407/ ; IPC/A&E premiere release (Oct. 27, 2016): https://theipcorp.com/eight-episode-ipc-series-leah-remini-scientology-and-the-aftermath-will-premiere-tuesday-november-29th-at-10pm-on-ae/
+28. LAPD, "LAPD Responds to Comments Made by Leah Remini" NR22330jl (Nov. 14, 2022): https://www.lapdonline.org/newsroom/lapd-responds-to-comments-made-by-leah-remini-nr22330jl/ ; The Hollywood Reporter, "LAPD Rules Shelly Miscavige Missing Persons Report 'Unfounded'" (Aug. 8, 2013): https://www.hollywoodreporter.com/news/general-news/leah-remini-leaves-scientology-lapd-602860/
+29. California Court of Appeal, 2d Dist., Div. 2, *Remini v. Church of Scientology International*, No. B337765 (filed July 31, 2026; unpublished), appeal from L.A. Super. Ct. No. 23STCV18300: https://www.courthousenews.com/wp-content/uploads/2026/07/remini-scientology-appeals-ruling.pdf ; Courthouse News, "Appeals court gives Leah Remini's defamation suit against Church of Scientology another trim": https://www.courthousenews.com/appeals-court-gives-leah-reminis-defamation-suit-against-church-of-scientology-another-trim/
+30. Variety, "Judge Tosses Parts of Leah Remini's Lawsuit Against Scientology" (Mar. 2024): https://variety.com/2024/tv/news/leah-remini-lawsuit-scientology-ruling-anti-slapp-1235942074/ ; Deadline (Mar. 14, 2024): https://deadline.com/2024/03/scientology-leah-remini-lawsuit-latest-1235857866/
+31. Church of Scientology International, "Aftermath of the Aftermath": https://www.leahreminiaftermath.com/ ; Church statement concerning Leah Remini: https://www.scientologynews.org/statements/abc-news/church-of-scientology-statement-leah-remini.html
+32. YouTube, *Growing Up in Scientology* channel (@growingupinscientology), subscriber count checked Oct. 8, 2026: https://www.youtube.com/@growingupinscientology
+33. Florida Politics, "Anti-Scientologist and former Clearwater candidate back in jail after bond revocation" (Nov. 20, 2025): https://floridapolitics.com/archives/766593-anti-scientologist-and-former-clearwater-candidate-back-in-jail-after-bond-revocation/
+34. Pinellas County Sheriff's Office, booking record for case 25-15304-MM (battery, Fla. Stat. 784.03; booked Apr. 14, 2026; released to probation May 4, 2026): https://www.pinellassheriff.gov/InmateBooking/SubjectResults.aspx?id=2030272 ; The Scientology Money Project, "Aaron Smith-Levin Found Guilty of Misdemeanor Battery Charge in Pinellas County, Florida" (Apr. 14, 2026): https://scientologymoneyproject.com/2026/04/14/aaron-smith-levin-found-guilty-of-misdemeanor-battery-charge-in-pinellas-county-florida/
+35. STAND (Scientologists Taking Action Against Discrimination), "Aaron Smith-Levin, Aftermath Founding Board Member, Convicted and Jailed for Assaulting a Scientologist" (May 13, 2026): https://www.standleague.org/newsroom/blog/aaron-smith-levin-aftermath-founding-board-member-convicted-and-jailed-for-assaulting-a-scientologist-01085a
+36. The Scientology Money Project, "Aaron Smith-Levin: Not Guilty" (Mar. 3, 2026): https://scientologymoneyproject.com/2026/03/03/aaron-smith-levin-not-guilty-prosecutor-scientology-lose-in-court/
 
 **Photos**
 - Clearwater Flag Building: "Scientology Clearwater headquarters.JPG," Taty2007, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Scientology_Clearwater_headquarters.JPG
 - Ground Zero and Katrina: Church of Scientology International, from Scientology.org Volunteer Ministers pages (official church images).
 - Haiti: "Scientology Volunteer Ministers in Haiti - February 2010," Scientology Volunteer Ministers, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Scientology_Volunteer_Ministers_in_Haiti_-_February_2010.jpg
 - Hollywood cleanup and Super Bowl: Scientology Newsroom (scientologynews.org) press images.
-- Keith Henson: Keith Henson, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Keith_Henson.jpg
 - John Sweeney: Richardc39, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:John_Sweeney.jpg
