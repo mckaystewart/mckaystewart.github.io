@@ -56,3 +56,6 @@ for i in $(seq 1 40); do
 done
 code=$(curl -s -o /dev/null -w '%{http_code}' "$URL")
 echo "Live check: $code $URL"
+if [ "$code" = 200 ]; then
+  /workspace/blog/indexnow.sh "$URL" "https://mckaystewart.github.io/" "https://mckaystewart.github.io/sitemap.xml" || echo "IndexNow ping failed (non-fatal)"
+fi
