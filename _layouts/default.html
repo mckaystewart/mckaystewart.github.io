@@ -11,7 +11,7 @@
   <header class="site-header">
     <div class="wrap">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      <span class="tagline">{{ site.tagline }}</span>
+      <span class="tagline">{{ page.tagline | default: site.tagline }}</span>
       <nav>
         <a href="{{ '/' | relative_url }}">Stories</a>
         <a href="{{ '/about/' | relative_url }}">About</a>

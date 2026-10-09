@@ -1,5 +1,6 @@
 ---
 layout: post
+tagline: "Behind the scenes: projects, sets and stories."
 title: "Holy Moly, West Side Swordy!"
 date: 2026-10-08 19:27:29 -0700
 description: "My 2015 short film: the Jets, the Sharks, swords and Deadmau5. Plus the trailer, the award-nominated tilt-to-parallax website (now restored), and where the film went."

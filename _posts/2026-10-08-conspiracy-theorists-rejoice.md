@@ -1,5 +1,6 @@
 ---
 layout: post
+tagline: "Incredible true stories, sourced."
 title: "Conspiracy Theorists Rejoice!"
 date: 2026-10-08 18:00:00 -0700
 description: "In the mid-1950s, a little booklet began circulating in America. It claims to lay out a way to conquer a country without firing a shot: flood its culture with chaos, break up its families, turn its young people, rewrite its textbooks, take over its mental-health system, and wipe out any healer who actually helps. When it names the healers who actually help, Dianetics is on the list. Here's the playbook in its own words, page by page, and what the record shows happened after officials got their hands on it."

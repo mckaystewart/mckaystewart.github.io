@@ -1,5 +1,6 @@
 ---
 layout: post
+tagline: "Incredible true stories, sourced."
 title: "Why you gotta hate, bro?"
 date: 2026-10-08 20:54:01 -0700
 description: "Hate is hate. So why does it get a pass when the target is Scientology? FBI numbers, court rulings, real attacks on churches, and the receipts on the haters."

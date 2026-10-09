@@ -30,11 +30,12 @@ if [ -n "$IMGDIR" ]; then
 fi
 
 python3 - "$TITLE" "$DESC" "$DATE $TIME $OFFSET" "$COVER" "$DATE" "$BODY" "$POST" <<'PY'
-import json, sys
+import json, sys, os
 title, desc, dt, cover, date, body_path, out = sys.argv[1:]
 body = open(body_path).read().replace('](images/', f'](/assets/images/{date}/')
 fm = ['---', 'layout: post', f'title: {json.dumps(title)}', f'date: {dt}']
 if desc:  fm.append(f'description: {json.dumps(desc)}')
+if os.environ.get('TAGLINE'): fm.append(f"tagline: {json.dumps(os.environ['TAGLINE'])}")
 if cover: fm.append(f'image: /assets/images/{date}/{cover}')
 fm += ['---', '']
 open(out, 'w').write('\n'.join(fm) + '\n' + body.lstrip('\n'))
