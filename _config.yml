@@ -1,0 +1,38 @@
+title: McKay Stewart
+tagline: Incredible true stories, sourced.
+description: Incredible true stories, sourced. Investigations, history, and behind-the-scenes from actor, stuntman, and photographer McKay Stewart.
+url: https://mckaystewart.github.io
+baseurl: ""
+author:
+  name: McKay Stewart
+  url: https://mckaystewart.github.io/about/
+twitter:
+  username: mckaystewart
+  card: summary_large_image
+social:
+  name: McKay Stewart
+  links:
+    - https://x.com/mckaystewart
+    - https://www.imdb.me/mckaystewart
+lang: en_US
+timezone: America/Los_Angeles
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "" }
+    values: { layout: default }
+exclude:
+  - publish.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

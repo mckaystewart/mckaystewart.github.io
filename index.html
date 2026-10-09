@@ -1,0 +1,19 @@
+---
+layout: default
+title: McKay Stewart
+---
+<section class="intro">
+  <p>{{ site.tagline }} Primary sources, page numbers, and receipts you can check yourself.</p>
+</section>
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li>
+    {% if post.image %}<a class="thumb" href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" alt="" loading="lazy"></a>{% endif %}
+    <div>
+      <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | truncatewords: 45 }}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
