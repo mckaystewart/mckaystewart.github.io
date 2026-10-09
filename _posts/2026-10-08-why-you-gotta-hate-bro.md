@@ -137,6 +137,21 @@ Her 2023 lawsuit? A judge struck about **half of nearly 100** of her claims. The
 
 **My take:** as a failed and disgruntled former Scientologist, she did the series for the money and the attention. That's a business model, not a crusade. The Church's side is at [leahreminiaftermath.com](https://www.leahreminiaftermath.com/).
 
+**Mocking any religion or its beliefs is bigotry and hate speech.**
+
+![The Church of Scientology's Flag Building in Clearwater](/assets/images/2026-10-08/scientology_clearwater_commons.jpg)
+*The Church of Scientology's Flag Building in downtown Clearwater, Florida. Photo: Taty2007, CC BY-SA 4.0, via Wikimedia Commons.*
+
+**9. Aaron Smith-Levin.** He runs an anti-Scientology YouTube channel with about **257,000 subscribers** (YouTube, 2026). He ran for Clearwater City Council in 2022 and lost (Florida Politics, 2025).
+
+In July 2025, police arrested him in Clearwater for battery on a Church security guard. A court later ordered him to have no contact with the guard (Florida Politics, 2025).
+
+Then he was charged with battery on a **second** Church staff member. A judge revoked his bail and sent him back to jail (Florida Politics, 2025).
+
+In April 2026, a jury found him **guilty** of battery in that second case. He stayed in jail until **May 4**, then went on probation (Pinellas County Sheriff, 2026). STAND, a Scientologist anti-discrimination group, says the court also ordered him to stay at least **500 feet** from Church property downtown (STAND, 2026).
+
+In the first case, a jury found him **not guilty** (Scientology Money Project, 2026).
+
 ## Treat us like anyone else
 
 You don't have to agree with my faith. I don't need you to.
@@ -198,8 +213,14 @@ Hate is hate. Even when it's trending.
 35. California Court of Appeal, 2d Dist., Div. 2, *Remini v. Church of Scientology International*, No. B337765 (filed July 31, 2026; unpublished), appeal from L.A. Super. Ct. No. 23STCV18300: https://www.courthousenews.com/wp-content/uploads/2026/07/remini-scientology-appeals-ruling.pdf ; Courthouse News, "Appeals court gives Leah Remini's defamation suit against Church of Scientology another trim": https://www.courthousenews.com/appeals-court-gives-leah-reminis-defamation-suit-against-church-of-scientology-another-trim/
 36. Variety, "Judge Tosses Parts of Leah Remini's Lawsuit Against Scientology" (Mar. 2024): https://variety.com/2024/tv/news/leah-remini-lawsuit-scientology-ruling-anti-slapp-1235942074/ ; Deadline (Mar. 14, 2024): https://deadline.com/2024/03/scientology-leah-remini-lawsuit-latest-1235857866/
 37. Church of Scientology International, "Aftermath of the Aftermath": https://www.leahreminiaftermath.com/ ; Church statement concerning Leah Remini: https://www.scientologynews.org/statements/abc-news/church-of-scientology-statement-leah-remini.html
+38. YouTube, *Growing Up in Scientology* channel (@growingupinscientology), subscriber count checked Oct. 8, 2026: https://www.youtube.com/@growingupinscientology
+39. Florida Politics, "Anti-Scientologist and former Clearwater candidate back in jail after bond revocation" (Nov. 20, 2025): https://floridapolitics.com/archives/766593-anti-scientologist-and-former-clearwater-candidate-back-in-jail-after-bond-revocation/
+40. Pinellas County Sheriff's Office, booking record for case 25-15304-MM (battery, Fla. Stat. 784.03; booked Apr. 14, 2026; released to probation May 4, 2026): https://www.pinellassheriff.gov/InmateBooking/SubjectResults.aspx?id=2030272 ; The Scientology Money Project, "Aaron Smith-Levin Found Guilty of Misdemeanor Battery Charge in Pinellas County, Florida" (Apr. 14, 2026): https://scientologymoneyproject.com/2026/04/14/aaron-smith-levin-found-guilty-of-misdemeanor-battery-charge-in-pinellas-county-florida/
+41. STAND (Scientologists Taking Action Against Discrimination), "Aaron Smith-Levin, Aftermath Founding Board Member, Convicted and Jailed for Assaulting a Scientologist" (May 13, 2026): https://www.standleague.org/newsroom/blog/aaron-smith-levin-aftermath-founding-board-member-convicted-and-jailed-for-assaulting-a-scientologist-01085a
+42. The Scientology Money Project, "Aaron Smith-Levin: Not Guilty" (Mar. 3, 2026): https://scientologymoneyproject.com/2026/03/03/aaron-smith-levin-not-guilty-prosecutor-scientology-lose-in-court/
 
 **Photos**
+- Clearwater Flag Building: "Scientology Clearwater headquarters.JPG," Taty2007, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Scientology_Clearwater_headquarters.JPG
 - Ground Zero and Katrina: Church of Scientology International, from Scientology.org Volunteer Ministers pages (official church images).
 - Haiti: "Scientology Volunteer Ministers in Haiti - February 2010," Scientology Volunteer Ministers, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Scientology_Volunteer_Ministers_in_Haiti_-_February_2010.jpg
 - Hollywood cleanup and Super Bowl: Scientology Newsroom (scientologynews.org) press images.
