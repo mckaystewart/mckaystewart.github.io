@@ -27,17 +27,6 @@ In 2025, police reported **2,408 hate crime incidents based on religion** (FBI, 
 
 The FBI doesn't track Scientology on its own. So nobody has an exact count. But the incidents are real.
 
-## It's not just words
-
-Some examples from news reports and court records:
-
-- **St. Paul, 2017:** A man was charged with first-degree arson. Prosecutors say he splashed gasoline on books in the church library and set them on fire (AP, 2017).
-- **Pasadena, 2021:** A man threatened the church and kicked a hole in its front door. Police booked him on suspicion of vandalism and a hate crime (Pasadena Now, 2021).
-- **Austin, 2024:** A man was charged with a felony terroristic threat. Police say he posted an online threat to blow up the church building (CBS Austin, 2024).
-- **Seattle, 2026:** Teens forced their way into the church. Police say one raised a crowbar at a woman inside. Three were booked on suspicion of burglary and a hate crime (Seattle Times, 2026).
-
-Charges aren't convictions. But nobody should have to hide upstairs in their own church.
-
 ## An old playbook against faith
 
 Attacks on religion aren't new.
@@ -202,60 +191,57 @@ Hate is hate. Even when it's trending.
 
 **Hate crimes and incidents**
 1. FBI/DOJ, "FBI Releases 2025 Hate Crime Statistics" (Aug. 14, 2026): https://www.justice.gov/hatecrimes/hate-crime-statistics ; FBI Table 1, *Hate Crime Statistics, 2025* (copy): https://jewishvirtuallibrary.org/storage/fbi2025hate.pdf ; FBI Crime Data Explorer: https://cde.ucr.cjis.gov/
-2. AP via CBS Minnesota, "Man Charged With Arson In St. Paul Church Of Scientology Fire" (2017): https://www.cbsnews.com/minnesota/news/st-paul-scientology-church-arson/
-3. Pasadena Now, "Man Accused of Vandalism, Hate Crime at Pasadena Church of Scientology" (Oct. 2, 2021): https://www.pasadenanow.com/main/man-accused-of-vandalism-hate-crime-at-pasadena-church-of-scientology
-4. CBS Austin, "Austin man charged with felony after threatening Scientology building on social media" (Nov. 20, 2024): https://cbsaustin.com/news/local/austin-man-charged-with-felony-after-threatening-scientology-building-on-social-media
-5. Seattle Times, "'Speed run' at Seattle Scientology church ends in hate crime arrests" (May 11, 2026): https://www.seattletimes.com/seattle-news/speed-run-at-seattle-scientology-church-ends-in-hate-crime-arrests/
+2. Seattle Times, "'Speed run' at Seattle Scientology church ends in hate crime arrests" (May 11, 2026): https://www.seattletimes.com/seattle-news/speed-run-at-seattle-scientology-church-ends-in-hate-crime-arrests/
 
 **Legal recognition and discrimination**
-6. New York Times, "Scientologists Granted Tax Exemption by the U.S." (Oct. 14, 1993): https://www.nytimes.com/1993/10/14/us/scientologists-granted-tax-exemption-by-the-us.html
-7. European Court of Human Rights, *Church of Scientology Moscow v. Russia*, no. 18147/02 (Apr. 5, 2007): http://www.bailii.org/eu/cases/ECHR/2007/258.html
-8. UK Supreme Court, *R (Hodkin) v Registrar General* [2013] UKSC 77 (Dec. 11, 2013), press summary: https://supremecourt.uk/uploads/uksc_2013_0030_press_summary_b3b4bffd26.pdf
-9. U.S. State Department, *2023 Report on International Religious Freedom: Germany*: https://www.state.gov/wp-content/uploads/2024/05/547499_GERMANY-2023-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf
-10. Bild, "Beobachten oder nicht?: Verfassungsschutz-Zoff um Scientology" (May 26, 2026): https://www.bild.de/politik/inland/beobachten-oder-nicht-verfassungsschutz-zoff-um-scientology-6a153a5a67305f34561da160
-11. U.S. State Department, *2023 Report on International Religious Freedom: Russia*: https://www.state.gov/reports/2023-report-on-international-religious-freedom/russia/
+3. New York Times, "Scientologists Granted Tax Exemption by the U.S." (Oct. 14, 1993): https://www.nytimes.com/1993/10/14/us/scientologists-granted-tax-exemption-by-the-us.html
+4. European Court of Human Rights, *Church of Scientology Moscow v. Russia*, no. 18147/02 (Apr. 5, 2007): http://www.bailii.org/eu/cases/ECHR/2007/258.html
+5. UK Supreme Court, *R (Hodkin) v Registrar General* [2013] UKSC 77 (Dec. 11, 2013), press summary: https://supremecourt.uk/uploads/uksc_2013_0030_press_summary_b3b4bffd26.pdf
+6. U.S. State Department, *2023 Report on International Religious Freedom: Germany*: https://www.state.gov/wp-content/uploads/2024/05/547499_GERMANY-2023-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf
+7. Bild, "Beobachten oder nicht?: Verfassungsschutz-Zoff um Scientology" (May 26, 2026): https://www.bild.de/politik/inland/beobachten-oder-nicht-verfassungsschutz-zoff-um-scientology-6a153a5a67305f34561da160
+8. U.S. State Department, *2023 Report on International Religious Freedom: Russia*: https://www.state.gov/reports/2023-report-on-international-religious-freedom/russia/
 
 **What Scientology is**
-12. Scientology.org, "What does the word Scientology mean?": https://www.scientology.org/faq/background-and-basic-principles/what-does-the-word-scientology-mean.html
-13. Scientology.org, "The Aims of Scientology": https://www.scientology.org/what-is-scientology/the-scientology-creeds-and-codes/the-aims-of-scientology.html
+9. Scientology.org, "What does the word Scientology mean?": https://www.scientology.org/faq/background-and-basic-principles/what-does-the-word-scientology-mean.html
+10. Scientology.org, "The Aims of Scientology": https://www.scientology.org/what-is-scientology/the-scientology-creeds-and-codes/the-aims-of-scientology.html
 
 **Helping out** (Church-reported figures are marked in the text)
-14. New York Times, "Changed Lives; Religious Leader Takes His Calling to Ground Zero" (Sept. 20, 2001): https://www.nytimes.com/2001/09/20/nyregion/changed-lives-religious-leader-takes-his-calling-to-ground-zero.html
-15. Scientology.org, "Volunteer Ministers Respond to 9/11 Disaster in New York": https://www.scientology.org/how-we-help/volunteer-ministers/disaster-relief/new-york.html
-16. Scientology Newsroom, "2001–2011: The Volunteer Ministers Movement": https://www.scientologynews.org/press-releases/scientology-volunteer-ministers-2011.html
-17. New York Times (The Lede), "Questions for Baptists, Praise for Scientologists in Haiti" (Feb. 3, 2010): https://archive.nytimes.com/thelede.blogs.nytimes.com/2010/02/03/while-baptist-group-is-questioned-scientologists-are-praised-in-haiti/
-18. ShowMe Plettenberg Bay, "Plett's men in blue bring happiness to Wittedrift" (Oct. 31, 2013): https://showme.co.za/plett/news/plett%c2%92s-men-in-blue-bring-happiness-to-wittedrift/
-19. Freedom Magazine (Church-published), "Trouble in Paradise, Then Hope: Reducing Crime in South Africa" (Nov. 2014): https://www.freedommag.org.za/issue/201411-held-back/world/trouble-and-hope-in-paradise-reducing-crime-south-africa.html
-20. Scientology Newsroom, "Kicking Off a Happy and Clean Holiday Season in Hollywood": https://www.scientologynews.org/press-releases/kicking-off-a-happy-and-clean-holiday-season-in-hollywood.html
-21. Urban Institute Justice Policy Center, *The Criminon Program Evaluation: Phase I* (Jan. 2006): https://www.criminon.org/wp-content/uploads/2020/04/The-Criminon-Program-Evaluation-Phase-1-The-Urban-Institute.pdf
-22. Scientology Newsroom, "Drug-Free World Tackles Drug Abuse at Super Bowl LIX" (2025): https://www.scientologynews.org/press-releases/drug-free-world-tackles-drug-abuse-at-super-bowl-lix.html
+11. New York Times, "Changed Lives; Religious Leader Takes His Calling to Ground Zero" (Sept. 20, 2001): https://www.nytimes.com/2001/09/20/nyregion/changed-lives-religious-leader-takes-his-calling-to-ground-zero.html
+12. Scientology.org, "Volunteer Ministers Respond to 9/11 Disaster in New York": https://www.scientology.org/how-we-help/volunteer-ministers/disaster-relief/new-york.html
+13. Scientology Newsroom, "2001–2011: The Volunteer Ministers Movement": https://www.scientologynews.org/press-releases/scientology-volunteer-ministers-2011.html
+14. New York Times (The Lede), "Questions for Baptists, Praise for Scientologists in Haiti" (Feb. 3, 2010): https://archive.nytimes.com/thelede.blogs.nytimes.com/2010/02/03/while-baptist-group-is-questioned-scientologists-are-praised-in-haiti/
+15. ShowMe Plettenberg Bay, "Plett's men in blue bring happiness to Wittedrift" (Oct. 31, 2013): https://showme.co.za/plett/news/plett%c2%92s-men-in-blue-bring-happiness-to-wittedrift/
+16. Freedom Magazine (Church-published), "Trouble in Paradise, Then Hope: Reducing Crime in South Africa" (Nov. 2014): https://www.freedommag.org.za/issue/201411-held-back/world/trouble-and-hope-in-paradise-reducing-crime-south-africa.html
+17. Scientology Newsroom, "Kicking Off a Happy and Clean Holiday Season in Hollywood": https://www.scientologynews.org/press-releases/kicking-off-a-happy-and-clean-holiday-season-in-hollywood.html
+18. Urban Institute Justice Policy Center, *The Criminon Program Evaluation: Phase I* (Jan. 2006): https://www.criminon.org/wp-content/uploads/2020/04/The-Criminon-Program-Evaluation-Phase-1-The-Urban-Institute.pdf
+19. Scientology Newsroom, "Drug-Free World Tackles Drug Abuse at Super Bowl LIX" (2025): https://www.scientologynews.org/press-releases/drug-free-world-tackles-drug-abuse-at-super-bowl-lix.html
 
 **The record**
-23. Irish Examiner, "Apology to Church of Scientology" (Dec. 20, 2007): https://www.irishexaminer.com/lifestyle/arid-30341378.html
-24. Poynter, "U.K.'s Sun mocks Scientology with apology to alien lifeforms" (June 13, 2013): https://www.poynter.org/reporting-editing/2013/u-k-s-sun-mocks-scientology-with-apology-to-alien-lifeforms/
-25. Digital Spy, "BBC man rebuked over Scientology show" (May 14, 2007): https://www.digitalspy.com/media/a46509/bbc-man-rebuked-over-scientology-show/ ; The Guardian (May 13, 2007): https://www.theguardian.com/media/2007/may/13/broadcasting.bbc
-26. AFP via The Guardian, "Scientology criminal enterprise case thrown out by Belgian judge" (Mar. 11, 2016): https://www.theguardian.com/world/2016/mar/11/scientology-criminal-enterprise-case-thrown-out-belgian-judge
-27. The Hollywood Reporter, "A TikToker's Scientology 'Run' Inspired a Trend. He Says It's Too Far" (Apr. 23, 2026): https://www.hollywoodreporter.com/news/general-news/tiktoker-scientology-run-inspired-a-trend-1236573730/
-28. ABC7 New York, "Video shows mob ransacking Church of Scientology in Midtown Manhattan" (May 2026): https://abc7ny.com/post/video-shows-mob-storming-church-scientology-new-york-city/19031313/ ; New York Post, "Crazy video shows mob ransack NYC Scientology church as 3 busted..." (May 25, 2026): https://nypost.com/2026/05/25/us-news/crazy-video-shows-mob-ransack-nyc-scientology-church-as-3-busted-for-possible-social-media-stunt/
-29. NBC News, "Church of Scientology blasts TikTok 'speed running' trend as viral videos circulate" (Apr. 30, 2026): https://www.nbcnews.com/news/us-news/church-of-scientology-blasts-tiktok-speedrunning-trend-rcna342747
+20. Irish Examiner, "Apology to Church of Scientology" (Dec. 20, 2007): https://www.irishexaminer.com/lifestyle/arid-30341378.html
+21. Poynter, "U.K.'s Sun mocks Scientology with apology to alien lifeforms" (June 13, 2013): https://www.poynter.org/reporting-editing/2013/u-k-s-sun-mocks-scientology-with-apology-to-alien-lifeforms/
+22. Digital Spy, "BBC man rebuked over Scientology show" (May 14, 2007): https://www.digitalspy.com/media/a46509/bbc-man-rebuked-over-scientology-show/ ; The Guardian (May 13, 2007): https://www.theguardian.com/media/2007/may/13/broadcasting.bbc
+23. AFP via The Guardian, "Scientology criminal enterprise case thrown out by Belgian judge" (Mar. 11, 2016): https://www.theguardian.com/world/2016/mar/11/scientology-criminal-enterprise-case-thrown-out-belgian-judge
+24. The Hollywood Reporter, "A TikToker's Scientology 'Run' Inspired a Trend. He Says It's Too Far" (Apr. 23, 2026): https://www.hollywoodreporter.com/news/general-news/tiktoker-scientology-run-inspired-a-trend-1236573730/
+25. ABC7 New York, "Video shows mob ransacking Church of Scientology in Midtown Manhattan" (May 2026): https://abc7ny.com/post/video-shows-mob-storming-church-scientology-new-york-city/19031313/ ; New York Post, "Crazy video shows mob ransack NYC Scientology church as 3 busted..." (May 25, 2026): https://nypost.com/2026/05/25/us-news/crazy-video-shows-mob-ransack-nyc-scientology-church-as-3-busted-for-possible-social-media-stunt/
+26. NBC News, "Church of Scientology blasts TikTok 'speed running' trend as viral videos circulate" (Apr. 30, 2026): https://www.nbcnews.com/news/us-news/church-of-scientology-blasts-tiktok-speedrunning-trend-rcna342747
 
-30. Deadline, "Leah Remini Inks First-Look Development Deal With A+E Networks" (Apr. 13, 2018): https://deadline.com/2018/04/leah-remini-first-look-development-deal-ae-networks-scientology-1202363407/ ; IPC/A&E premiere release (Oct. 27, 2016): https://theipcorp.com/eight-episode-ipc-series-leah-remini-scientology-and-the-aftermath-will-premiere-tuesday-november-29th-at-10pm-on-ae/
-31. LAPD, "LAPD Responds to Comments Made by Leah Remini" NR22330jl (Nov. 14, 2022): https://www.lapdonline.org/newsroom/lapd-responds-to-comments-made-by-leah-remini-nr22330jl/ ; The Hollywood Reporter, "LAPD Rules Shelly Miscavige Missing Persons Report 'Unfounded'" (Aug. 8, 2013): https://www.hollywoodreporter.com/news/general-news/leah-remini-leaves-scientology-lapd-602860/
-32. California Court of Appeal, 2d Dist., Div. 2, *Remini v. Church of Scientology International*, No. B337765 (filed July 31, 2026; unpublished), appeal from L.A. Super. Ct. No. 23STCV18300: https://www.courthousenews.com/wp-content/uploads/2026/07/remini-scientology-appeals-ruling.pdf ; Courthouse News, "Appeals court gives Leah Remini's defamation suit against Church of Scientology another trim": https://www.courthousenews.com/appeals-court-gives-leah-reminis-defamation-suit-against-church-of-scientology-another-trim/
-33. Variety, "Judge Tosses Parts of Leah Remini's Lawsuit Against Scientology" (Mar. 2024): https://variety.com/2024/tv/news/leah-remini-lawsuit-scientology-ruling-anti-slapp-1235942074/ ; Deadline (Mar. 14, 2024): https://deadline.com/2024/03/scientology-leah-remini-lawsuit-latest-1235857866/
-34. Church of Scientology International, "Aftermath of the Aftermath": https://www.leahreminiaftermath.com/ ; Church statement concerning Leah Remini: https://www.scientologynews.org/statements/abc-news/church-of-scientology-statement-leah-remini.html
-35. YouTube, *Growing Up in Scientology* channel (@growingupinscientology), subscriber count checked Oct. 8, 2026: https://www.youtube.com/@growingupinscientology
-36. Florida Politics, "Anti-Scientologist and former Clearwater candidate back in jail after bond revocation" (Nov. 20, 2025): https://floridapolitics.com/archives/766593-anti-scientologist-and-former-clearwater-candidate-back-in-jail-after-bond-revocation/
-37. Pinellas County Sheriff's Office, booking record for case 25-15304-MM (battery, Fla. Stat. 784.03; booked Apr. 14, 2026; released to probation May 4, 2026): https://www.pinellassheriff.gov/InmateBooking/SubjectResults.aspx?id=2030272 ; The Scientology Money Project, "Aaron Smith-Levin Found Guilty of Misdemeanor Battery Charge in Pinellas County, Florida" (Apr. 14, 2026): https://scientologymoneyproject.com/2026/04/14/aaron-smith-levin-found-guilty-of-misdemeanor-battery-charge-in-pinellas-county-florida/
-38. STAND (Scientologists Taking Action Against Discrimination), "Aaron Smith-Levin, Aftermath Founding Board Member, Convicted and Jailed for Assaulting a Scientologist" (May 13, 2026): https://www.standleague.org/newsroom/blog/aaron-smith-levin-aftermath-founding-board-member-convicted-and-jailed-for-assaulting-a-scientologist-01085a
-39. The Scientology Money Project, "Aaron Smith-Levin: Not Guilty" (Mar. 3, 2026): https://scientologymoneyproject.com/2026/03/03/aaron-smith-levin-not-guilty-prosecutor-scientology-lose-in-court/
-40. IPSO, *Miscavige v Mail Online*, ruling 01450-16 (published July 19, 2016): https://www.ipso.co.uk/rulings/01450-16/ ; The Guardian, "Scientology leader's complaint over Mail Online's Tom Cruise story upheld" (July 19, 2016): https://www.theguardian.com/media/2016/jul/19/scientology-mail-online-tom-cruise-david-miscavige
-41. Reuters, "Oscar-winner Paul Haggis must pay total of $10 million in civil rape case" (Nov. 14, 2022): https://www.reuters.com/legal/oscar-winner-paul-haggis-must-pay-total-10-million-civil-rape-case-2022-11-14/ ; AP, "Jury tells filmmaker Haggis to pay $10M total in rape suit" (Nov. 14, 2022): https://apnews.com/article/entertainment-movies-lawsuits-paul-haggis-c12bd93280bc86eff399fcbf6cbf81e7
-42. Variety, "Paul Haggis Settles With Rape Accuser for $2 Million" (Jan. 9, 2026): https://variety.com/2026/film/news/paul-haggis-rape-accuser-2-million-1236627708/
-43. Audiencia Nacional (Spain), Sala de lo Contencioso-Administrativo, Sección 3, SAN 4394/2007, recurso 352/2005 (Oct. 11, 2007), full text: https://www.cesnur.org/2007/sc_10_11.htm ; listed by Spain's Ministry of the Presidency: https://www.mpr.gob.es/mpr/subse/libertad-religiosa/paginas/jurisprudencia-interes/personalidad-juridica.aspx
-44. European Court of Human Rights, *Kimlya and Others v. Russia*, nos. 76836/01 and 32782/03 (Oct. 1, 2009): https://www.bailii.org/eu/cases/ECHR/2009/1424.html ; *Church of Scientology of St Petersburg and Others v. Russia*, no. 47191/06 (Oct. 2, 2014): http://www.bailii.org/eu/cases/ECHR/2014/1019.html
-45. *Congressional Record*, 105 Cong. Rec. A569 (Jan. 20, 1959), Appendix, entered by Rep. Edgar W. Hiestand; scans and context: https://mckaystewart.github.io/2026/10/08/conspiracy-theorists-rejoice/
-46. *Brain-Washing: A Synthesis of the Russian Textbook on Psychopolitics* (1955), pp. 45, 49; free PDF: https://mckaystewart.github.io/assets/docs/brain-washing-psychopolitics.pdf
+27. Deadline, "Leah Remini Inks First-Look Development Deal With A+E Networks" (Apr. 13, 2018): https://deadline.com/2018/04/leah-remini-first-look-development-deal-ae-networks-scientology-1202363407/ ; IPC/A&E premiere release (Oct. 27, 2016): https://theipcorp.com/eight-episode-ipc-series-leah-remini-scientology-and-the-aftermath-will-premiere-tuesday-november-29th-at-10pm-on-ae/
+28. LAPD, "LAPD Responds to Comments Made by Leah Remini" NR22330jl (Nov. 14, 2022): https://www.lapdonline.org/newsroom/lapd-responds-to-comments-made-by-leah-remini-nr22330jl/ ; The Hollywood Reporter, "LAPD Rules Shelly Miscavige Missing Persons Report 'Unfounded'" (Aug. 8, 2013): https://www.hollywoodreporter.com/news/general-news/leah-remini-leaves-scientology-lapd-602860/
+29. California Court of Appeal, 2d Dist., Div. 2, *Remini v. Church of Scientology International*, No. B337765 (filed July 31, 2026; unpublished), appeal from L.A. Super. Ct. No. 23STCV18300: https://www.courthousenews.com/wp-content/uploads/2026/07/remini-scientology-appeals-ruling.pdf ; Courthouse News, "Appeals court gives Leah Remini's defamation suit against Church of Scientology another trim": https://www.courthousenews.com/appeals-court-gives-leah-reminis-defamation-suit-against-church-of-scientology-another-trim/
+30. Variety, "Judge Tosses Parts of Leah Remini's Lawsuit Against Scientology" (Mar. 2024): https://variety.com/2024/tv/news/leah-remini-lawsuit-scientology-ruling-anti-slapp-1235942074/ ; Deadline (Mar. 14, 2024): https://deadline.com/2024/03/scientology-leah-remini-lawsuit-latest-1235857866/
+31. Church of Scientology International, "Aftermath of the Aftermath": https://www.leahreminiaftermath.com/ ; Church statement concerning Leah Remini: https://www.scientologynews.org/statements/abc-news/church-of-scientology-statement-leah-remini.html
+32. YouTube, *Growing Up in Scientology* channel (@growingupinscientology), subscriber count checked Oct. 8, 2026: https://www.youtube.com/@growingupinscientology
+33. Florida Politics, "Anti-Scientologist and former Clearwater candidate back in jail after bond revocation" (Nov. 20, 2025): https://floridapolitics.com/archives/766593-anti-scientologist-and-former-clearwater-candidate-back-in-jail-after-bond-revocation/
+34. Pinellas County Sheriff's Office, booking record for case 25-15304-MM (battery, Fla. Stat. 784.03; booked Apr. 14, 2026; released to probation May 4, 2026): https://www.pinellassheriff.gov/InmateBooking/SubjectResults.aspx?id=2030272 ; The Scientology Money Project, "Aaron Smith-Levin Found Guilty of Misdemeanor Battery Charge in Pinellas County, Florida" (Apr. 14, 2026): https://scientologymoneyproject.com/2026/04/14/aaron-smith-levin-found-guilty-of-misdemeanor-battery-charge-in-pinellas-county-florida/
+35. STAND (Scientologists Taking Action Against Discrimination), "Aaron Smith-Levin, Aftermath Founding Board Member, Convicted and Jailed for Assaulting a Scientologist" (May 13, 2026): https://www.standleague.org/newsroom/blog/aaron-smith-levin-aftermath-founding-board-member-convicted-and-jailed-for-assaulting-a-scientologist-01085a
+36. The Scientology Money Project, "Aaron Smith-Levin: Not Guilty" (Mar. 3, 2026): https://scientologymoneyproject.com/2026/03/03/aaron-smith-levin-not-guilty-prosecutor-scientology-lose-in-court/
+37. IPSO, *Miscavige v Mail Online*, ruling 01450-16 (published July 19, 2016): https://www.ipso.co.uk/rulings/01450-16/ ; The Guardian, "Scientology leader's complaint over Mail Online's Tom Cruise story upheld" (July 19, 2016): https://www.theguardian.com/media/2016/jul/19/scientology-mail-online-tom-cruise-david-miscavige
+38. Reuters, "Oscar-winner Paul Haggis must pay total of $10 million in civil rape case" (Nov. 14, 2022): https://www.reuters.com/legal/oscar-winner-paul-haggis-must-pay-total-10-million-civil-rape-case-2022-11-14/ ; AP, "Jury tells filmmaker Haggis to pay $10M total in rape suit" (Nov. 14, 2022): https://apnews.com/article/entertainment-movies-lawsuits-paul-haggis-c12bd93280bc86eff399fcbf6cbf81e7
+39. Variety, "Paul Haggis Settles With Rape Accuser for $2 Million" (Jan. 9, 2026): https://variety.com/2026/film/news/paul-haggis-rape-accuser-2-million-1236627708/
+40. Audiencia Nacional (Spain), Sala de lo Contencioso-Administrativo, Sección 3, SAN 4394/2007, recurso 352/2005 (Oct. 11, 2007), full text: https://www.cesnur.org/2007/sc_10_11.htm ; listed by Spain's Ministry of the Presidency: https://www.mpr.gob.es/mpr/subse/libertad-religiosa/paginas/jurisprudencia-interes/personalidad-juridica.aspx
+41. European Court of Human Rights, *Kimlya and Others v. Russia*, nos. 76836/01 and 32782/03 (Oct. 1, 2009): https://www.bailii.org/eu/cases/ECHR/2009/1424.html ; *Church of Scientology of St Petersburg and Others v. Russia*, no. 47191/06 (Oct. 2, 2014): http://www.bailii.org/eu/cases/ECHR/2014/1019.html
+42. *Congressional Record*, 105 Cong. Rec. A569 (Jan. 20, 1959), Appendix, entered by Rep. Edgar W. Hiestand; scans and context: https://mckaystewart.github.io/2026/10/08/conspiracy-theorists-rejoice/
+43. *Brain-Washing: A Synthesis of the Russian Textbook on Psychopolitics* (1955), pp. 45, 49; free PDF: https://mckaystewart.github.io/assets/docs/brain-washing-psychopolitics.pdf
 
 **Photos**
 - Clearwater Flag Building: "Scientology Clearwater headquarters.JPG," Taty2007, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Scientology_Clearwater_headquarters.JPG
