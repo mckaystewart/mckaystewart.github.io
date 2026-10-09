@@ -16,6 +16,8 @@ tags: [psychopolitics, history, primary-sources]
 
 The booklet is called **Brain-Washing: A Synthesis of the Russian Textbook on Psychopolitics**. It's free to read and download from the [Internet Archive](https://archive.org/details/goff_Brain_washing). Every quote below is copied word for word from that scan, with its printed page number, so you can check each one yourself. I'm not paraphrasing anything inside quote marks.
 
+**[Download the full booklet (PDF, 2.0 MB)](/assets/docs/brain-washing-psychopolitics.pdf)** — same Internet Archive scan ([goff_Brain_washing](https://archive.org/details/goff_Brain_washing)).
+
 Here's how it defines its subject:
 
 > "PSYCHOPOLITICS: the art and science of asserting and maintaining dominion over the thoughts and loyalties of individuals, officers, bureaus, and masses; and the effecting of the conquest of enemy nations through 'mental healing.'"
@@ -176,7 +178,7 @@ Conspiracy theorists, rejoice. Then read it. 📚
 
 ## Sources
 
-1. *Brain-Washing: A Synthesis of the Russian Textbook on Psychopolitics.* Undated AFN Books reprint (Johnstown, CO), with an editorial note signed by Kenneth Goff. Internet Archive: https://archive.org/details/goff_Brain_washing (PDF: https://archive.org/download/goff_Brain_washing/goff_Brain_washing.pdf). Quotes use the printed page numbers.
+1. *Brain-Washing: A Synthesis of the Russian Textbook on Psychopolitics.* Undated AFN Books reprint (Johnstown, CO), with an editorial note signed by Kenneth Goff. Local download: [/assets/docs/brain-washing-psychopolitics.pdf](/assets/docs/brain-washing-psychopolitics.pdf) (2.0 MB). Source scan: Internet Archive https://archive.org/details/goff_Brain_washing (PDF: https://archive.org/download/goff_Brain_washing/goff_Brain_washing.pdf). Quotes use the printed page numbers.
 2. Massimo Introvigne, "Did L. Ron Hubbard Believe in Brainwashing? The Strange Story of the 'Brain-Washing Manual' of 1955," *Nova Religio* 20, no. 4 (2017): 62–79, https://doi.org/10.1525/nr.2017.20.4.62. Cited here only for the documented FBI and NSC assessments.
 3. Alaska Mental Health Enabling Act, Pub. L. 84-830, 70 Stat. 709 (July 28, 1956): https://www.govinfo.gov/content/pkg/STATUTE-70/pdf/STATUTE-70-Pg709.pdf
 4. *Founding Church of Scientology v. United States*, 409 F.2d 1146 (D.C. Cir. 1969): https://openjurist.org/409/f2d/1146
