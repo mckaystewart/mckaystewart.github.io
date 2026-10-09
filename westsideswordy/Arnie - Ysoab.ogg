@@ -1,0 +1,1224 @@
+<!DOCTYPE html>
+<html >
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+
+<link rel="shortcut icon" href="favicon (1).ico" type="image/x-icon">
+<link rel="icon" href="favicon (1).ico" type="image/x-icon">
+
+
+<title>
+</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+
+
+
+
+
+
+
+
+
+<script src="jquery-1.2.6.pack.js">
+
+</script>
+
+
+<script type="text/javascript">
+/*
+var mql = window.matchMedia("screen and (max-device-width: 700px)");
+
+if (mql.matches) {
+
+document.location = "http://mobile.westsideswordy.com";
+}
+
+
+if (screen.width < 700) {
+
+document.location = "mobile1.html";
+}
+
+*/
+
+
+var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+
+
+if( isMobile.any() ){
+  if (window.location.hash.substr(1) == 'rsvp') {
+    document.location = "http://m.westsideswordy.com/rsvp_form.html";
+  } else {
+    document.location = "http://m.westsideswordy.com";
+  }
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+<link type="text/css" href="style.css" rel="stylesheet"/>
+
+
+	<link rel="stylesheet" href="alertify.core.css" />
+	<link rel="stylesheet" href="alertify.default.css" />
+
+
+
+<script src="java.js"></script>
+<script src="forms.js"></script>
+
+
+
+<link type="text/css" media="screen" rel="stylesheet" href="awwwards.css" />
+
+</head>
+<body >
+	<!-- <a href="http://cssreel.com/Website/west-side-swordy" id="cssreel" target="_blank" style="position: absolute;top: 45px;left: 0;z-index: 1000; width: 51px;height: 85px;background: url(CSS-REEL-NOMINEE.png) 0 0 no-repeat;"></a> -->
+  <div id="awwwards" class="nominee green left">
+    <a href="http://www.awwwards.com" target="_blank">Awwwards</a>
+  </div>
+
+<div id="videowrap">
+<p>X</p>
+<iframe  width="750" height="421" frameborder="0" webkitallowfullscreen
+ mozallowfullscreen allowfullscreen id="video"></iframe>
+</div>
+
+
+
+
+
+<audio id="audio1"  preload="auto"  loop>
+<!--<source src="" type="audio/ogg">-->
+<source src="Pandora-loop.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+ <audio id="cheer1"  preload="auto"  >
+<source src="cutie-pie.ogg" type="audio/ogg">
+<source src="cutie-pie.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+<audio id="cheer2"  preload="auto"  >
+<source src="chopper.ogg" type="audio/ogg">
+<source src="chopper.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+<audio id="cheer3"  preload="auto"  >
+<source src="deep-trouble.ogg" type="audio/ogg">
+<source src="deep-trouble.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+<audio id="cheer4"  preload="auto"  >
+<source src="See You At The Party.ogg" type="audio/ogg">
+<source src="See You At The Party.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+<audio id="cheer5"  preload="auto"  >
+<source src="Arnie - Ysoab.ogg" type="audio/ogg">
+<source src="Arnie - Ysoab.mp3" type="audio/mpeg">
+
+
+</audio>
+
+<audio id="winner"  preload="auto"  >
+<source src="KIDS CHEERING SOUND EFFECT-edit.ogg" type="audio/ogg">
+<source src="KIDS CHEERING SOUND EFFECT-edit.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+
+<audio id="boo1"  preload="auto"  >
+<source src="boo1.ogg" type="audio/ogg">
+<source src="boo1.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+<audio id="boo2"  preload="auto"  >
+<source src="boo2.ogg" type="audio/ogg">
+<source src="boo2.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+
+<audio id="boo3"  preload="auto"  >
+<source src="boo3.ogg" type="audio/ogg">
+<source src="boo3.mp3" type="audio/mpeg">
+
+
+</audio>
+
+
+
+<div id="loader">
+<!--
+    <img src="wss-loader-PREVIEW.jpg" width=100%  >
+-->
+<div  class='uil-ring-css' ><div></div></div>
+</div>
+
+<div id="bigcontainer">
+<!--
+<img src="wss-loader-PREVIEW.jpg" width=50% id="placeholder"  class="movement" >
+-->
+<div id="gallery1" class="movement">
+<div id="enclose">
+<div id="wrapped">
+<div id="next1">
+<img  src="next.png" id="nthumb1"></div>
+</div>
+<div id="next2">
+<img  src="thumb7.png" id="nthumb2"></div>
+</div>
+
+
+
+<div id="enclose2">
+<div id="wrapped2">
+<div id="previous1">
+<img  src="previous.png" id="pthumb1"></div>
+</div>
+<div id="previous2">
+<img  src="thumb1.png" id="pthumb2"></div>
+</div>
+
+
+
+
+
+
+
+
+
+<div id="zoom">
+<img id="enlarge" src="">
+<img id="close1" src="">
+</div>
+
+<div id="pictures">
+<div id="picture1">
+<img src="" id="load1" class="load">
+<img src="" id="black1" class="black">
+<canvas id="myCanvas1" class="myCanvas" width="320" height="320"  style="z-index:7;border:0px solid green" ></canvas>
+
+</div>
+<div id="picture1">
+<img src="" id="load2" class="load">
+<img src="" id="black2" class="black">
+<canvas id="myCanvas2" class="myCanvas" width="320" height="320"  style="z-index:7;border:0px solid green" ></canvas>
+
+</div>
+<div id="picture1">
+<img src="" id="load3" class="load">
+<img src="" id="black3" class="black">
+<canvas id="myCanvas3" class="myCanvas" width="320" height="320"  style="z-index:7;border:0px solid green" ></canvas>
+
+</div>
+<div id="picture1">
+<img src="" id="load4" class="load">
+<img src="" id="black4" class="black">
+<canvas id="myCanvas4" class="myCanvas" width="320" height="320"  style="z-index:7;border:0px solid green" ></canvas>
+</div>
+<div id="picture1">
+<img src="" id="load5" class="load">
+<img src="" id="black5" class="black">
+<canvas id="myCanvas5" class="myCanvas" width="320" height="100"  style="z-index:7;border:0px solid green" ></canvas>
+</div>
+<div id="picture1">
+<img src="" id="load6" class="load">
+<img src="" id="black6" class="black">
+<canvas id="myCanvas6" class="myCanvas" width="320" height="100"  style="z-index:7;border:0px solid green" ></canvas>
+</div>
+</div>
+</div>
+
+
+<!--
+
+<div id="ri" class="movement">
+
+<div id="formcontainer">
+
+<img class="balloon" id="riballoon" src="balloon.png" style="top:140px;height:40px;visibility:hidden;">
+<img class="balloon" id="riballoon1" src="balloon2.png" style="top:137px;left:33px;visibility:hidden;">
+<img class="balloon" id="riballoon2" src="balloon6.png" style="top:138px;left:32px;visibility:hidden;">
+<img class="balloon" id="riballoon3" src="balloon4.png" style="top:138px;left:822px;visibility:hidden;">
+<div id="form1">
+
+
+
+
+<span id="form1head">RSVP</span>
+
+<p align="justify" id="head">If you would like to attend our special screening event please fill out all required fields below and then click the SUBMIT button. You will receive email confirmation of your RSVP pending available seating. If you are bringing a guest or requesting an invitation on behalf of someone, please specify those names in “Additional Information” below.</p>
+
+<form name="input2" id="input2" style="height:100px">
+
+<div id="formback2" style="top:0%;">
+
+<div id="inner2" style="width:35%"><span id="innertext2" >Confirmation Number</span></div>
+
+  <input id="select2" type="text" name="bname1">
+
+</div>
+
+
+<div id="formback3"  style="top:0%;">
+<div id="inner2"><span id="innertext" >Last Name</span></div>
+
+  <input id="select2" type="text" name="bname2">
+
+</div>
+
+<input type="submit" value="SUBMIT" id="button" style="top:60px;">
+
+</form>
+
+</div>
+</div>
+</div>
+
+-->
+
+<div id="contact1" class="movement">
+
+<div id="formcontainer">
+
+
+<img class="balloon" id="conballoon1" src="balloon.png" style="top:200px;height:40px;visibility:hidden">
+<img class="balloon" id="conballoon2" src="balloon.png" style="top:260px;height:40px;visibility:hidden">
+<img class="balloon" id="conballoon3" src="balloon2.png" style="top:197px;left:33px;visibility:hidden">
+<img class="balloon" id="conballoon4" src="balloon2.png" style="top:317px;left:33px;visibility:hidden">
+<img class="balloon" id="conballoon5" src="balloon.png" style="top:320px;height:40px;visibility:hidden">
+
+<img class="balloon" id="conballoon6" src="balloon3.png" style="top:198px;left:32px;visibility:hidden">
+<img class="balloon" id="conballoon7" src="balloon4.png" style="top:198px;left:822px;visibility:hidden">
+<img class="balloon" id="conballoon8" src="balloon6.png" style="top:318px;left:32px;visibility:hidden">
+<img class="balloon" id="conballoon9" src="balloon7.png" style="top:258px;left:822px;visibility:hidden">
+
+<div id="form1">
+<span id="form1head">CONTACT</span>
+<p align="justify" id="head">For all media and press concerns please use the form below.
+ All fields required except for Company and Title.</p>
+
+
+<form name="input3" id="input2" style="top:140px;">
+<img id="selectimg" src="dropdown.png">
+
+
+<div id="formback">
+<div id="inner"><span id="innertext" >Type</span></div>
+<select id="select1" name="conselect" style="width:78.9%;">
+ <option value="Agent">Agent</option>
+  <option value="Director">Director</option>
+  <option value="Media">Media</option>
+  <option value="Producer">Producer</option>
+  <option value="Publicist">Publicist</option>
+  <option value="Press">Press</option>
+  <option value="Talent">Talent</option>
+
+
+</select>
+</div>
+
+<div id="formback2" style="top:60px;">
+<div id="inner2"><span id="innertext" >First Name</span></div>
+
+  <input id="select2" type="text" name="cname1">
+
+</div>
+
+
+<div id="formback3" style="top:60px;">
+<div id="inner2"><span id="innertext" >Last Name</span></div>
+
+  <input id="select2" type="text" name="cname2">
+
+</div>
+
+
+<div id="formback4" style="top:120px;">
+<div id="inner2"><span id="innertext" >Company</span></div>
+
+  <input id="select2" type="text" name="cname3">
+
+</div>
+
+<!--
+
+<div id="formback5" style="top:120px;">
+<div id="inner2"><span id="innertext" >Title</span></div>
+
+  <input id="select2" type="text" name="cname4">
+
+</div>
+
+-->
+
+<div id="formback6" style="top:180px;">
+<div id="inner2"><span id="innertext" >Phone number</span></div>
+
+  <input id="select2" type="text" name="cname5">
+
+</div>
+
+<div id="formback7" style="top:120px;">
+<div id="inner2"><span id="innertext" >Email address</span></div>
+
+  <input id="select2" type="text" name="cname6">
+
+</div>
+
+
+<div id="formback10" style="top:180px;left:51.6%;">
+<div id="inner2"><span id="innertext" >Subject</span></div>
+
+  <input id="select2" type="text" name="cname7">
+
+</div>
+
+
+<div id="formback11" style="top:240px;" >
+<div id="inner3" ><span id="innertext2" >Message Text</span></div>
+<textarea name="special3" id="textarea" style="top:9%;height:91%;font-size:13px;" placeholder="3500 Characters Max"></textarea>
+
+</div>
+
+
+<input type="submit" value="MESSAGE" id="button3" style="top:380px;">
+
+
+
+
+
+</form>
+</div>
+</div>
+</div>
+
+
+
+<div id="rsvp" class="movement">
+
+<div id="formcontainer">
+
+<img class="balloon" id="balloon1" src="balloon.png" style="top:285px;height:40px;visibility:hidden">
+<img class="balloon" id="balloon2" src="balloon.png" style="top:225px;height:40px;visibility:hidden">
+<img class="balloon" id="balloon3" src="balloon2.png" style="top:222px;left:33px;visibility:hidden">
+<img class="balloon" id="balloon4" src="balloon2.png" style="top:282px;left:33px;visibility:hidden">
+<img class="balloon" id="balloon5" src="balloon2.png" style="top:382px;left:33px;visibility:hidden">
+
+
+<img class="balloon" id="balloon7" src="balloon3.png" style="top:223px;left:32px;visibility:hidden">
+<img class="balloon" id="balloon8" src="balloon4.png" style="top:223px;left:822px;visibility:hidden">
+<img class="balloon" id="balloon9" src="balloon6.png" style="top:383px;left:32px;visibility:hidden">
+<img class="balloon" id="balloon10" src="balloon7.png" style="top:283px;left:822px;visibility:hidden">
+
+<div id="form1">
+
+
+
+<span id="form1head">RSVP</span>
+
+
+<p align="justify" id="head">LIMITED SEATING. If you are interested in attending the World Premiere Showcase Event please fill out all required fields below and then click the SUBMIT button. You will receive email confirmation of your RSVP pending available seating. If you are bringing a guest or RSVPing on behalf of someone, please specify those names in “Message” below.</p>
+
+
+<form name="input1" id="input2" style="top:165px;" action="" method="POST">
+
+
+<img id="selectimg" src="dropdown.png">
+<img id="selectimg2" src="dropdown.png">
+
+
+
+
+
+<div id="formback">
+<div id="inner"><span id="innertext" >Request type</span></div>
+<select id="select1" name="selectrsvp" style="width:78.9%;">
+  <option value="Agent">Agent</option>
+  <option value="Director">Director</option>
+  <option value="Media">Media</option>
+  <option value="Producer">Producer</option>
+  <option value="Publicist">Publicist</option>
+  <option value="Press">Press</option>
+  <option value="Talent">Talent</option>
+
+</select>
+</div>
+
+<!--
+
+<div id="formback9" style="top:60px" >
+<div id="inner" style="width:16%"><span id="innertext2" >Referral</span></div>
+<input id="select2" type="text" name="name0" style="width:79%;">
+
+</div>
+
+-->
+
+
+
+
+<div id="formback2" style="top:60px">
+<div id="inner2"><span id="innertext" >First Name</span></div>
+
+  <input id="select2" type="text" name="name1">
+
+</div>
+
+
+
+
+
+
+
+
+<div id="formback3" style="top:60px">
+<div id="inner2"><span id="innertext" >Last Name</span></div>
+
+  <input id="select2" type="text" name="name2">
+
+</div>
+
+
+<div id="formback4" style="top:120px">
+<div id="inner2"><span id="innertext" >Company</span></div>
+
+  <input id="select2" type="text" name="name3">
+
+</div>
+
+
+
+<div id="formback5" style="top:120px">
+<div id="inner2"><span id="innertext" >Email Address</span></div>
+
+  <input id="select2" type="text" name="name4">
+
+</div>
+
+<div id="check">
+<input type="checkbox" id="myCheck" value="" style="position:absolute;top:0px;left:0px;"><span
+style="position:absolute;top:4px;left:22px;"
+>I would like
+to be considered for future events</span>
+</div>
+
+<div id="formback6" style="top:220px">
+<div id="inner2"><span id="innertext" >Phone number</span></div>
+
+  <input id="select2" type="text" name="name5">
+
+</div>
+
+
+
+<div id="formback7" style="top:220px">
+<div id="inner2"><span id="innertext2" >Guests</span></div>
+<select id="select2" name="selectrsvp2" style="width:58%;height:100%;background:transparent;float:right;left:0%;-webkit-appearance:none;">
+  <option value="one">1</option>
+  <option value="two">2</option>
+  <option value="three">3</option>
+
+</select>
+
+
+</div>
+
+
+
+<div id="formback8" style="top:280px">
+<div id="inner3" ><span id="innertext2" >Message</span></div>
+<textarea name="special2" id="textarea"
+  style="top:9%;height:91%;font-size:13px;" placeholder="If you like, please provide us with any information that may assist us in fulfilling your request. You may leave this field blank."></textarea>
+
+</div>
+
+<!--
+
+<div id="formback9" style="top:420px" >
+<div id="inner" style="width:16%"><span id="innertext2" >Special Instructions</span></div>
+<input id="select2" type="text" name="name6" style="width:79%;">
+
+</div>
+-->
+
+<input type="submit" value="SUBMIT" id="button2" style="top:420px">
+
+
+
+
+
+
+
+
+
+
+</form>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="container2" class="movement">
+<div id="about1">
+
+<div id="about1wrap">
+<img src="aboutpage.png" id="aboutus1" >
+<p  id="paragraph" >You've never heard of any of us.
+ Well, let me tell ya.
+  Actually no, let me not do that.
+ But I can at least give  you our names.
+  If you can complete a  basic game of memory.</p>
+<img src="pic2.png" id="pic3" >
+
+<p  id="pic2" >I'm retarded. Solve it for me.</p>
+
+<img src="popup.png" id="pop" >
+
+<div class="table1">
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test1">
+<img src="shape1.png" class="tile">
+</div>
+
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test2">
+<img src="shape2.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test3">
+<img src="shape3.png" class="tile">
+
+</div>
+
+<div  class="shape2" >
+
+<img src="" class="photos" id="test4">
+<img src="shape4.png" class="tile">
+
+</div>
+
+<div  class="shape2" >
+
+<img src="" class="photos" id="test5">
+<img src="shape5.png" class="tile">
+
+</div>
+
+<div  class="shape2" >
+
+<img src="" class="photos" id="test6">
+<img src="shape1.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test7">
+<img src="shape7.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test8">
+<img src="shape8.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test9">
+<img src="shape9.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test10">
+<img src="shape10.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test11">
+<img src="shape11.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test12">
+<img src="shape12.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test13">
+<img src="shape13.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test14">
+<img src="shape14.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test15">
+<img src="shape15.png" class="tile">
+</div>
+
+<div class="shape2" >
+
+<img src="" class="photos" id="test16">
+<img src="shape16.png" class="tile">
+</div>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div id="about2">
+
+
+
+<div  id="gallery">
+
+<div id="box1" class="box" style="margin-left:0%">
+
+<img src="box2.png"  >
+<img src="makahla ross2_template02.png" id="img1">
+<p class="title" ><span style="color:#9fcad4">MAKHALA </span>/ DANCER</p>
+<p class="description">Makahla Ross - Femme Fatale, super duper dancer</p>
+</div>
+
+<div id="box2" class="box" >
+
+<img src="box4.png" >
+<img src="bertier_template03.png" id="img1">
+<p class="title"><span style="color:#9fcad4">BRITTNEY </span>/ DANCER</p>
+<p class="description">Brittney Bertier - Small-town charm and a 1.21 gigawatt smile</p>
+</div>
+<div id="box3" class="box">
+
+<img src="box2.png" >
+<img src="john-connor_template01.png" id="img1">
+<p class="title"><span style="color:#9fcad4">JOHN </span>/ CINEMATOGRAPHER</p>
+<p class="description">John Connor - Works with folks like Ridley Scott, Fincher, Abrams etc
+</p>
+</div>
+
+<div id="box4" class="box">
+
+<img src="box1.png" >
+<img src="mckay-final.png" id="img1">
+<p class="title"><span style="color:#9fcad4">MCKAY </span>/ CREATOR</p>
+<p class="description">McKay Stewart - Too much anime and Mass Effect</p>
+</div>
+<div id="box5" class="box">
+
+<img src="box2.png" >
+<img src="dan-liu_template02.png" id="img1">
+<p class="title"><span style="color:#9fcad4">DAN </span>/ DIRECTOR</p>
+<p class="description">Dan Liu - Hones his skills as editor on The Walking Dead</p>
+</div>
+<div id="box6" class="box">
+
+<img src="box3.png" >
+<img src="jason-brillantes_template03.png" id="img1">
+<p class="title"><span style="color:#9fcad4">JASON </span>/ BERNARDO</p>
+<p class="description">Jason Brillantes - Family Man, great talent at both stunts and acting</p>
+</div>
+<div id="box7" class="box">
+
+<img src="box4.png" >
+<img src="david-wachs_template01.png" id="img1">
+<p class="title"><span style="color:#9fcad4">DAVID </span>/ DANCER</p>
+<p class="description">David Wachs - Rock Star in the making, uber-talent as performer</p>
+
+</div>
+
+
+<div id="box8" class="box">
+
+<img src="box2.png" >
+<img src="nick-lanzisera_template03.png" id="img1">
+<p class="title"><span style="color:#9fcad4">NICK </span>/ CHOREOGRAPHER</p>
+<p class="description">Nick Lanzisera - Dance credits include True Blood, Footloose and Fame
+</p>
+</div>
+<div id="box9" class="box" >
+
+<img src="box2.png" >
+<img src="hannah-li.png" id="img1">
+<p class="title"><span style="color:#9fcad4">HANNA-LEE </span>/ DANCER</p>
+<p class="description">Hanna-Lee Sakakibara - Superstar performer and ultimate professional</p>
+</div>
+
+<div id="box10" class="box">
+
+<img src="box2.png" >
+<img src="amanda-shelby.png" id="img1">
+<p class="title"><span style="color:#9fcad4">AMANDA </span>/ UPM</p>
+<p class="description">Amanda Shelby - Handling pressure with aplomb, kept our show together</p>
+</div>
+
+<div id="box11" class="box">
+
+<img src="box4.png" >
+<img src="harrison-bliss_template02.png" id="img1">
+<p class="title"><span style="color:#9fcad4">HARRISON </span>/ DANCER</p>
+<p class="description">Harrison Bliss - Boy-wonder, child prodigy, taking the world by storm</p>
+
+</div>
+
+<div id="box12" class="box">
+
+<img src="box1.png" >
+<img src="saige-walker_template03.png" id="img1">
+<p class="title"><span style="color:#9fcad4">SAIGE </span>/ DEADMAU5</p>
+<p class="description">Saige Walker - Multi-hyphenate super mogul in the making</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<img src="bgimage.png"  id="bg"  >
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+<div id="wrapper">
+
+<div id="container" >
+
+
+
+<ul id="scene" data-friction-x="0.1"
+  data-friction-y="0.1"   data-origin-y="0.73"  class="scene" style=" margin:0;padding:0;">
+
+
+
+
+			<li class="layer" data-depth="0.70" >
+<img id="background" src="WSS3_1-blue2.jpg" width=100% height=100% >
+
+
+
+
+</li>
+
+
+
+
+
+<li class="layer" data-depth="0.40" >
+
+<img src="pillarsnew.png" width=100% height=100% class="image1">
+
+
+<span id="chain1">
+<img  src="chainsnew1.png" width=100% height=100% id="chain" style=" border: 1px solid rgba(0, 0, 0, 0);" >
+</span>
+
+
+
+<span id="chain3">
+<img  src="chainsnew3.png" width=100% height=100% id="chain" style=" border: 1px solid rgba(0, 0, 0, 0);" >
+</span>
+
+
+</li>
+
+
+			<li class="layer" data-depth="0.70" >
+<img src="light4.png" width=100% height=100% class="image1">
+
+<div id="dustcon">
+<img class="image1" id="dust1" src="dust1b.png" width=100% height=100%  style=" border: 1px solid rgba(0, 0, 0, 0);">
+
+
+<img class="image1" id="dust2" src="dust2.png" width=100% height=100%  style=" border: 1px solid rgba(0, 0, 0, 0);">
+
+<img class="image1" id="dust3" src="dust3.png" width=100% height=100%  style=" border: 1px solid rgba(0, 0, 0, 0);">
+</div>
+
+<div id="dustcon2">
+<img class="image1" id="dust3" src="dust4-copy.png" width=100% height=100%  style=" border: 1px solid rgba(0, 0, 0, 0);">
+</div>
+
+
+
+
+
+</li>
+
+
+
+<li class="layer" data-depth="0.55" >
+
+<span id="chain2">
+<img  src="chainsnew2.png" width=100% height=100%  id="chain5" style=" border: 1px solid rgba(0, 0, 0, 0);" >
+</span>
+
+
+
+<img src="chain4.png" id="chain4" >
+
+
+<img src="pillarsnew2.png" id="pillar" >
+
+
+
+
+
+
+</li>
+
+
+
+<li class="layer" data-depth="0.48" >
+<span id="graphic1" >
+<img  src="bg-upper-nav.png" width=100% height=100% ></span>
+</li>
+
+
+
+
+
+<li class="layer" data-depth="0.30" >
+
+
+
+<img src="character.png" id="char" >
+
+<!--
+<img src="alas.jpg" id="alas" >
+-->
+
+
+
+</li>
+
+<li class="layer" data-depth="0.48" >
+<span id="graphic" href="http://www.w3schools.com">
+<img  src="bg-footer-left.png" width=100% height=100% ></span>
+
+</li>
+
+
+
+
+
+<li id="wanted" class="layer" data-depth="0.35" >
+
+
+
+
+<img src="logo.png" class="logo" >
+
+
+<img  src="logo1.png"  id="logo">
+
+
+
+
+
+<img src="blackscreen.png" id="blackout">
+
+<div id="footer2"  >
+<p align="justify" style="padding-top:3px;">Song "Pandora" courtesy of composer Pascal Tatipata. All artwork and content (C) Origins of Light and West Side Swordy, All Rights Reserved. Website by <a href="http://www.halocreativeagency.com" target="_blank">HALO CREATIVE</a>, a Los Angeles Design Firm.</p>
+</div>
+
+
+<a href="http://www.originsoflight.com" target="_blank"><img id="footer" src="footer2.png"  ></a>
+
+
+
+
+
+<div class="nav-top">
+
+
+		<ul type="none">
+                                <li class="menutop" id="menu0"><a  href="#">HOME</a></li>
+				<li class="menutop" id="menu1"><a  href="#">PHOTO GALLERY</a></li>
+				<li class="menutop" id="menu2"><a  href="#" >ABOUT</a></li>
+				<li class="menutop" id="menu3"><a  href="#">RSVP</a></li>
+        <li class="menutop" id="menu4"><a  href="#">CONTACT</a></li>
+				<li class="menutop" ><a href="West-Side-Swordy-Press-Kit.pdf" target="_blank">PRESS KIT</a></li>
+
+
+</ul>
+</div>
+
+<div id="wrap">
+<a id="icon1" class="icon" href="https://twitter.com/westsideswordy"  target="_blank">
+<img class="show" src="icon1.png" width=100%  style="border:none;" >
+<img class="hide" src="icon1h.png" width=100%  style="border:none;" >
+</a>
+
+
+
+
+<a  id="icon2" class="icon" href="https://www.facebook.com/WestSideSwordy"  target="_blank">
+<img class="show" src="icon2.png" width=100%  style="border:none;" >
+<img class="hide" src="icon2h.png" width=100%  style="border:none;" >
+</a>
+
+<!--
+
+<a  id="icon3" class="icon" href="http://www.w3schools.com" >
+<img class="show" src="icon3.png" width=100%  style="border:none;" >
+<img class="hide" src="icon3h.png" width=100%  style="border:none;" >
+</a>
+
+
+
+<a   id="icon4" class="icon" href="http://www.w3schools.com" >
+<img class="show" src="icon4.png" width=100%  style="border:none;" >
+<img class="hide" src="icon4h.png" width=100%  style="border:none;" >
+
+
+</a>
+
+
+<a   id="icon5" class="icon" href="http://www.w3schools.com" >
+<img class="show" src="icon5.png" width=100%  style="border:none;" >
+<img class="hide" src="icon5h.png" width=100%  style="border:none;" >
+</a>
+
+
+<a  id="icon6" class="icon" href="http://www.w3schools.com" >
+<img class="show" src="icon6.png" width=100%  style="border:none;" >
+<img class="hide" src="icon6h.png" width=100%  style="border:none;" >
+</a>
+
+
+-->
+<a id="icon7" class="icon" style="visibility:visible;">
+<img class="show" id="shown" src="music.png" width=100%  style="border:none;" >
+<img class="hide" id="hidden" src="musichover.png" width=100%  style="border:none;" >
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+<a  id="trailer" class="icon" href="#" >
+
+<img  src="movie-trailer.png" width=auto height=100%  style="border:none;position:absolute;">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</ul>
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+<script src="jquer.js"></script>
+<script src="jquery.parallax.js"></script>
+
+<script> $('#scene').parallax();
+
+	</script>
+
+
+
+
+
+<script>
+jQuery(window).load(function () {
+
+
+//document.getElementById('audio1').pause();
+
+$(".icon").css("pointer-events","none");
+$("#blackout").css('display','block');
+$("#blackout").css('opacity','1');
+
+video=1;
+
+
+
+
+
+$('#loader').fadeOut("slow", function() {
+
+ $('#loader').remove();
+
+
+if (window.location.hash.substr(1) == 'rsvp') {
+  $("#videowrap").css('display','none');
+  video = 0;
+  menu3();
+} else {
+  $("#videowrap").css('display','block');
+  $("#video").attr('src', "//player.vimeo.com/video/125714055?autoplay=1");
+}
+
+
+
+
+})
+
+
+
+});
+
+</script>
+
+<script src="alertify.min.js"></script>
+
+
+</body>
+
+
+</html>
