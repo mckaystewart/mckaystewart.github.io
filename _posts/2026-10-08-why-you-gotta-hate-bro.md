@@ -129,13 +129,13 @@ I'm only naming cases where a court, an apology, or the person's own words make 
 
 **7. The "speedrun" trend.** In 2026, TikTokers raced through Church buildings for views. One creator's video hit about **90 million views** (Hollywood Reporter, 2026). Copycats followed. In New York, a mob forced its way into a church near Times Square. Police later charged two men with burglary, criminal mischief and assault, all as hate crimes (ABC7, 2026; NY Post, 2026). Police in L.A. and Seattle opened hate-crime investigations (NBC, 2026; Seattle Times, 2026).
 
-**8. Leah Remini.** She hosted and executive-produced *Scientology and the Aftermath* for A&E (2016–2019), then signed an overall deal with A+E Networks (Deadline, 2018).
+**8. Leah Remini.** A&E paid her to host and executive-produce *Scientology and the Aftermath* (2016–2019). Then she signed an overall deal with A+E Networks (Deadline, 2018).
 
 In 2013 she filed a missing-person report on the church leader's wife. Police found her "alive and safe" and called the report **"unfounded"** (LAPD, 2022; THR, 2013). Later, her lawyers sent the Church letters seeking up to **$1 million** (Calif. Court of Appeal, 2026).
 
 Her 2023 lawsuit? A judge struck about **half of nearly 100** of her claims. The appeals court struck more in 2026. Her harassment and surveillance claims are still headed to trial (Calif. Court of Appeal, 2026).
 
-My take: that's a business model, not a crusade. The Church's side is at [leahreminiaftermath.com](https://www.leahreminiaftermath.com/).
+**My take:** as a failed and disgruntled former Scientologist, she did the series for the money and the attention. That's a business model, not a crusade. The Church's side is at [leahreminiaftermath.com](https://www.leahreminiaftermath.com/).
 
 ## Treat us like anyone else
 
