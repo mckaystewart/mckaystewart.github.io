@@ -6,6 +6,12 @@ description: "Hate is hate. So why does it get a pass when the target is Sciento
 image: /assets/images/2026-10-08/vm_haiti_feb2010.jpg
 ---
 
+**In 2026, a TikTok trend went viral: run through a Scientology church as fast as you can, and post it.**
+
+One creator's video hit about **90 million views** (Hollywood Reporter, 2026). Copycats followed.
+
+In New York, a mob forced its way into a church near Times Square. Police charged two men with burglary, criminal mischief and assault, **all as hate crimes** (ABC7, 2026; NY Post, 2026). Police in L.A. and Seattle opened hate-crime investigations too (NBC, 2026; Seattle Times, 2026).
+
 **Hate is wrong. We all agree on that. So why does it get a pass when the target is Scientology?**
 
 I'm a Scientologist. Here's what the record shows: the courts, the crimes, and the help. Every claim has a source at the bottom.
@@ -26,7 +32,7 @@ Some examples from news reports and court records:
 
 - **St. Paul, 2017:** A man was charged with first-degree arson. Prosecutors say he splashed gasoline on books in the church library and set them on fire (AP, 2017).
 - **Pasadena, 2021:** A man threatened the church and kicked a hole in its front door. Police booked him on suspicion of vandalism and a hate crime (Pasadena Now, 2021).
-- **Austin, 2024:** A man was charged with a felony terroristic threat. Police say he posted "IM GONNA GO BLOW the SCIENTOLOGY BUILDING UP" (CBS Austin, 2024).
+- **Austin, 2024:** A man was charged with a felony terroristic threat. Police say he posted an online threat to blow up the church building (CBS Austin, 2024).
 - **Seattle, 2026:** Teens forced their way into the church. Police say one raised a crowbar at a woman inside. Three were booked on suspicion of burglary and a hate crime (Seattle Times, 2026).
 
 Charges aren't convictions. But nobody should have to hide upstairs in their own church.
@@ -120,9 +126,7 @@ I'm only naming cases where a court, an apology, or the person's own words make 
 
 **4. Belgian prosecutors.** After an 18-year case, a Brussels judge threw out every charge in 2016. His words: "The defendants were prosecuted primarily because they were Scientologists" (AFP/Guardian, 2016).
 
-**5. The "speedrun" trend.** In 2026, TikTokers raced through Church buildings for views. One creator's video hit about **90 million views** (Hollywood Reporter, 2026). Copycats followed. In New York, a mob forced its way into a church near Times Square. Police later charged two men with burglary, criminal mischief and assault, all as hate crimes (ABC7, 2026; NY Post, 2026). Police in L.A. and Seattle opened hate-crime investigations (NBC, 2026; Seattle Times, 2026).
-
-**6. Leah Remini.** A&E paid her to host and executive-produce *Scientology and the Aftermath* (2016–2019). Then she signed an overall deal with A+E Networks (Deadline, 2018).
+**5. Leah Remini.** A&E paid her to host and executive-produce *Scientology and the Aftermath* (2016–2019). Then she signed an overall deal with A+E Networks (Deadline, 2018).
 
 In 2013 she filed a missing-person report on the church leader's wife. Police found her "alive and safe" and called the report **"unfounded"** (LAPD, 2022; THR, 2013). Later, her lawyers sent the Church letters seeking up to **$1 million** (Calif. Court of Appeal, 2026).
 
@@ -135,7 +139,7 @@ Her 2023 lawsuit? A judge struck about **half of nearly 100** of her claims. The
 ![The Church of Scientology's Flag Building in Clearwater](/assets/images/2026-10-08/scientology_clearwater_commons.jpg)
 *The Church of Scientology's Flag Building in downtown Clearwater, Florida. Photo: Taty2007, CC BY-SA 4.0, via Wikimedia Commons.*
 
-**7. Aaron Smith-Levin.** He runs an anti-Scientology YouTube channel with about **257,000 subscribers** (YouTube, 2026). He ran for Clearwater City Council in 2022 and lost (Florida Politics, 2025).
+**6. Aaron Smith-Levin.** He runs an anti-Scientology YouTube channel with about **257,000 subscribers** (YouTube, 2026). He ran for Clearwater City Council in 2022 and lost (Florida Politics, 2025).
 
 In July 2025, police arrested him in Clearwater for battery on a Church security guard. A court later ordered him to have no contact with the guard (Florida Politics, 2025).
 
