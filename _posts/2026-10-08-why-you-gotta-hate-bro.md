@@ -37,6 +37,22 @@ Some examples from news reports and court records:
 
 Charges aren't convictions. But nobody should have to hide upstairs in their own church.
 
+## An old playbook against faith
+
+Attacks on religion aren't new.
+
+*Brain-Washing* is a 1950s booklet that claims to be a Soviet mind-control manual. In 1959 it was named in the Congressional Record, inside a newspaper column a congressman entered (Cong. Rec., 1959).
+
+It calls for pushing the real helpers out of mental health:
+
+> "Thus must be excluded priests, ministers, actually trained psychoanalysts, good hypnotists, or trained Dianeticists." (p. 45)
+
+Then it names targets to wipe out: **Christian Science, Dianetics, faith healing and Catholicism** (p. 49).
+
+Catholic, Christian, Scientologist or any faith: it's the same fight.
+
+**Read the full story, with page scans and a free download of the booklet:** [Conspiracy Theorists Rejoice!](/2026/10/08/conspiracy-theorists-rejoice/)
+
 ## The law says it's a religion
 
 This isn't up for debate in court.
@@ -237,6 +253,8 @@ Hate is hate. Even when it's trending.
 42. Variety, "Paul Haggis Settles With Rape Accuser for $2 Million" (Jan. 9, 2026): https://variety.com/2026/film/news/paul-haggis-rape-accuser-2-million-1236627708/
 43. Audiencia Nacional (Spain), Sala de lo Contencioso-Administrativo, Sección 3, SAN 4394/2007, recurso 352/2005 (Oct. 11, 2007), full text: https://www.cesnur.org/2007/sc_10_11.htm ; listed by Spain's Ministry of the Presidency: https://www.mpr.gob.es/mpr/subse/libertad-religiosa/paginas/jurisprudencia-interes/personalidad-juridica.aspx
 44. European Court of Human Rights, *Kimlya and Others v. Russia*, nos. 76836/01 and 32782/03 (Oct. 1, 2009): https://www.bailii.org/eu/cases/ECHR/2009/1424.html ; *Church of Scientology of St Petersburg and Others v. Russia*, no. 47191/06 (Oct. 2, 2014): http://www.bailii.org/eu/cases/ECHR/2014/1019.html
+45. *Congressional Record*, 105 Cong. Rec. A569 (Jan. 20, 1959), Appendix, entered by Rep. Edgar W. Hiestand; scans and context: https://mckaystewart.github.io/2026/10/08/conspiracy-theorists-rejoice/
+46. *Brain-Washing: A Synthesis of the Russian Textbook on Psychopolitics* (1955), pp. 45, 49; free PDF: https://mckaystewart.github.io/assets/docs/brain-washing-psychopolitics.pdf
 
 **Photos**
 - Clearwater Flag Building: "Scientology Clearwater headquarters.JPG," Taty2007, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Scientology_Clearwater_headquarters.JPG
