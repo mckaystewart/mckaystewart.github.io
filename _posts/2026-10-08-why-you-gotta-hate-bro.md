@@ -3,7 +3,7 @@ layout: post
 tagline: "Incredible true stories, sourced."
 title: "Why you gotta hate, bro?"
 date: 2026-10-08 20:54:01 -0700
-description: "Hate is hate. So why does it get a pass when the target is Scientology? FBI numbers, court rulings, real attacks on churches, and the receipts on the haters."
+description: "Hate is hate. So why does it get a pass when the target is Scientology? FBI numbers, court rulings, real attacks on churches, and the record on the haters."
 image: /assets/images/2026-10-08/vm_haiti_feb2010.jpg
 ---
 
@@ -117,7 +117,7 @@ After the 2010 earthquake, NBC's *Today* show ran a report called "Scientologist
 
 Volunteers hand out *Truth About Drugs* booklets at big events. The group says it's active in about **180 countries** (Church-reported).
 
-## The receipts
+## The record
 
 I'm only naming cases where a court, an apology, or the person's own words make the record clear.
 
