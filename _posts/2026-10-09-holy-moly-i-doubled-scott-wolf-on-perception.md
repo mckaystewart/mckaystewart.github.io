@@ -4,7 +4,7 @@ title: "Holy Moly, I Doubled Scott Wolf on Perception"
 date: 2026-10-09 09:18:15 -0700
 description: "April 2014: my first set photo on the new X account \u2014 stunt doubling Scott Wolf on TNT's Perception, with the credits to prove it."
 tagline: "Stunts, sets and the early hustle."
-image: /assets/images/2026-10-09/perception-stunt.jpg
+image: /assets/images/2026-10-09/scott-wolf-and-me-perception-set.jpg
 ---
 
 Holy moly. April 2014. Brand-new X account. Old one got hacked, so I started fresh.
@@ -18,6 +18,11 @@ Day one I yelled about a *West Side Swordy* trailer (I already wrote a whole pos
 That was me. On TNT. Doubling **Scott Wolf**.
 
 Twelve years later, I'm expanding that tiny post into the full story — with the photo, the credits, and the proof.
+
+![Scott Wolf and me on the set of Perception](/assets/images/2026-10-09/scott-wolf-and-me-perception-set.jpg)
+*Scott Wolf (left) and me, side by side in matching orange jumpsuits on the set of Perception. Photo: McKay Stewart, [via my X post](https://x.com/mckaystewart/status/1359579188823527424).*
+
+What a great guy. So much fun to work with.
 
 ![Behind the scenes on Perception](/assets/images/2026-10-09/perception-stunt.jpg)
 *Behind the scenes on TNT's Perception, April 2014. Photo from my X post.*
@@ -43,6 +48,10 @@ Look at it. Orange prison jumpsuits. Outdoor yard. Gym gear in the background. W
 That's a real behind-the-scenes day. Not a press kit. Not a posed promo. Just the crew and cast-adjacent folks between takes, phones out, capturing the moment.
 
 I slapped hashtags on it and hit post. That was the whole "article" in 2014. Two sentences and a pic.
+
+## See it in motion
+
+Clips from *Perception* made it into my action and stunt demo reel, along with *Agents of S.H.I.E.L.D.* and *Eagle Eye*. [Watch the reel on X](https://x.com/mckaystewart/status/1377767989924093954).
 
 ## The credit (on the record)
 
@@ -90,6 +99,8 @@ If you're a young performer reading this: post the work. Keep the pictures. Year
 
 ## Sources
 
+- McKay Stewart on X, [February 10, 2021](https://x.com/mckaystewart/status/1359579188823527424) — photo of Scott Wolf and me on set.
+- McKay Stewart on X, [April 1, 2021](https://x.com/mckaystewart/status/1377767989924093954) — stunt demo reel with Perception clips.
 - McKay Stewart on X, [April 25, 2014](https://x.com/mckaystewart/status/459760465107623937) — original photo and caption.
 - [Metacritic: Perception credits](https://www.metacritic.com/tv/perception/credits/) — McKay Stewart listed as “stunt double: Scott Wolf / stunt driver,” 2 episodes (2014).
 - IMDb, [*Perception* “Dirty” (2014) full credits](https://www.imdb.com/title/tt3765302/fullcredits/) — McKay Stewart, stunt driver.
