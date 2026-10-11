@@ -1,13 +1,13 @@
 ---
 layout: post
 tagline: "Behind the scenes: projects, sets and stories."
-title: "Holy Moly, West Side Swordy!"
+title: "West Side Swordy!"
 date: 2026-10-08 19:27:29 -0700
 description: "My 2015 short film: the Jets, the Sharks, swords and Deadmau5. Plus the trailer, the award-nominated tilt-to-parallax website (now restored), and where the film went."
 image: /assets/images/2026-10-08/wss-poster.jpg
 ---
 
-Holy moly. Back in 2015 my old Blogspot had exactly two posts, and they were both about the same crazy little movie: **West Side Swordy**. Post one was the trailer. Post two was me announcing the website. Eleven years later I'm reviving the blog, so it felt right to start with the project I was yelling about back then, and to finally tell the whole thing in one place.
+Back in 2015 my old Blogspot had exactly two posts, and they were both about the same crazy little movie: **West Side Swordy**. Post one was the trailer. Post two was me announcing the website. Eleven years later I'm reviving the blog, so it felt right to start with the project I was yelling about back then, and to finally tell the whole thing in one place.
 
 Oh, and the website is back from the dead too. More on that below.
 
@@ -106,7 +106,7 @@ West Side Swordy got out into the world:
 - The **2016 Urban Mediamakers Film Festival** (UMFF) named it **Best International Music-Driven Short Film** ([UMFF 2016 winners, PDF](https://umff.com/assets/pdf/umff-winners-2016.pdf)).
 - The **Short Stop International Film Festival** programmed it in a music video block ([listing](https://www.shortstopfest.com/music-video-4)).
 
-Holy moly. A sword-fighting reel I wanted to send to the *Pirates* people turned into a short with a Technocrane, a Deadmau5 head, an award-nominated website and a festival win. Thank you to every single person who bled, sweated and danced on this thing.
+A sword-fighting reel I wanted to send to the *Pirates* people turned into a short with a Technocrane, a Deadmau5 head, an award-nominated website and a festival win. Thank you to every single person who bled, sweated and danced on this thing.
 
 ---
 

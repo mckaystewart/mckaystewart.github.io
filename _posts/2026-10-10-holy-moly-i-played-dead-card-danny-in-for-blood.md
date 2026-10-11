@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Holy Moly, I Played Dead Card Danny in For Blood"
+title: "I Played Dead Card Danny in For Blood"
 date: 2026-10-10 09:00:53 -0700
 description: "August 2014 wrap: I played Dead Card Danny in the 11-minute fantasy Western For Blood \u2014 posters, teaser, and the San Diego Kumeyaay Award."
 tagline: "Wild West fantasy, poker chips and Dead Card Danny."
 image: /assets/images/2026-10-10/wrap-set.jpg
 ---
 
-Holy moly. **August 2014.** I posted a set photo and six words that still make me grin:
+**August 2014.** I posted a set photo and six words that still make me grin:
 
 > "Just wrapped #forbloodmovie … good times!"
 

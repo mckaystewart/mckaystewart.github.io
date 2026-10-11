@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Holy Moly, I Rehearsed With Manu Bennett on Beta Test"
+title: "I Rehearsed With Manu Bennett on Beta Test"
 date: 2026-10-11 08:59:33 -0700
 description: "November 2014 in Seattle: Day 5 rehearsing action with Manu Bennett on Beta Test \u2014 I played Richter."
 tagline: "Seattle coffee, Manu Bennett, and Richter on Beta Test."
 image: /assets/images/2026-10-11/starbucks-seattle-manu.jpg
 ---
 
-Holy moly. **November 2014.** Seattle. Day **5** of rehearsals.
+**November 2014.** Seattle. Day **5** of rehearsals.
 
 I posted it straight:
 

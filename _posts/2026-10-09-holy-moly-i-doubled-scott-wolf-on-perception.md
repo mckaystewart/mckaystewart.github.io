@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Holy Moly, I Doubled Scott Wolf on Perception"
+title: "I Doubled Scott Wolf on Perception"
 date: 2026-10-09 09:18:15 -0700
 description: "April 2014: my first set photo on the new X account \u2014 stunt doubling Scott Wolf on TNT's Perception, with the credits to prove it."
 tagline: "Stunts, sets and the early hustle."
 image: /assets/images/2026-10-09/scott-wolf-and-me-perception-set.jpg
 ---
 
-Holy moly. **April 2014.** Brand-new X account. My old one got hacked, so I started fresh.
+**April 2014.** Brand-new X account. My old one got hacked, so I started fresh.
 
 Day one I posted about a *West Side Swordy* trailer. (I wrote a whole post about that film. [Go read it](/2026/10/08/holy-moly-west-side-swordy/) if you missed it.)
 
@@ -142,7 +142,7 @@ Not dreaming. Not hoping. On a network set, doubling a name people know.
 
 If you're young and want to do this: **train hard, post the work, keep the pictures.** Years later, you'll want the proof.
 
-Holy moly. Not bad for a fresh account.
+Not bad for a fresh account.
 
 ---
 
