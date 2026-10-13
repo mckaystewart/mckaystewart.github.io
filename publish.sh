@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Publish a new post to https://mckaystewart.github.io
+# Publish a new post to https://blog.mckaystewart.com
 #
 # Usage:
 #   ./publish.sh "Post Title" path/to/body.md [path/to/images_dir] [description] [cover_image_filename]
@@ -42,7 +42,7 @@ open(out, 'w').write('\n'.join(fm) + '\n' + body.lstrip('\n'))
 PY
 
 echo "Wrote $POST"
-URL="https://mckaystewart.github.io/${DATE//-//}/${SLUG}/"
+URL="https://blog.mckaystewart.com/${DATE//-//}/${SLUG}/"
 [ "${DRY_RUN:-0}" = 1 ] && { echo "DRY_RUN: not pushing. Would be $URL"; exit 0; }
 
 git add -A
@@ -58,5 +58,5 @@ done
 code=$(curl -s -o /dev/null -w '%{http_code}' "$URL")
 echo "Live check: $code $URL"
 if [ "$code" = 200 ]; then
-  /workspace/blog/indexnow.sh "$URL" "https://mckaystewart.github.io/" "https://mckaystewart.github.io/sitemap.xml" || echo "IndexNow ping failed (non-fatal)"
+  /workspace/blog/indexnow.sh "$URL" "https://blog.mckaystewart.com/" "https://blog.mckaystewart.com/sitemap.xml" || echo "IndexNow ping failed (non-fatal)"
 fi
