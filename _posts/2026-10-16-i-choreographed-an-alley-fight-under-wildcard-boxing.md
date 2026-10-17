@@ -114,7 +114,7 @@ I posted the clip on X on **December 16, 2020** and said we crushed it. They wer
 ![Jasper Jeon walking toward camera in a sleeveless hoodie under fluorescent alley lights, from Down Tempo](/assets/images/2026-10-16/downtempo-still-3.jpg)
 *Jasper Jeon enters the frame. Still from the same [Down Tempo X post](https://x.com/mckaystewart/status/1339256338841358337).*
 
-<video controls muted playsinline preload="metadata" poster="images/downtempo-poster.jpg" style="width:100%;height:auto;"><source src="images/downtempo-fight.mp4" type="video/mp4"></video>
+<video controls muted playsinline preload="metadata" poster="/assets/images/2026-10-16/downtempo-poster.jpg" style="width:100%;height:auto;"><source src="/assets/images/2026-10-16/downtempo-fight.mp4" type="video/mp4"></video>
 
 *Down Tempo fight clip from [my Dec 16, 2020 X post](https://x.com/mckaystewart/status/1339256338841358337). Also on YouTube: [Down Tempo feat. Jasper Jeon and David Wachs](https://www.youtube.com/watch?v=lpz1VZCGXZE) (uploaded Dec 15, 2020, **29** seconds).*
 
