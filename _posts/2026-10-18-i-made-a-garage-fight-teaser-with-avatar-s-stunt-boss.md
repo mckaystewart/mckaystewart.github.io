@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "I Made a Garage Fight Teaser With Avatar's Stunt Boss"
+title: "GLITCH: My Fight Teaser With Director Garrett Warren"
 date: 2026-10-18 09:04:17 -0700
-description: "Jan 2021: I dropped the GLITCH teaser, a parking garage fight written and directed by Garrett Warren, Avatar's stunt coordinator. Here's how it led to Avatar 2."
-tagline: "One hoodie. One garage. A lot of doors opened."
+description: "Jan 2021: I dropped the teaser for GLITCH, written and directed by Garrett Warren. Here's the fight, and how it led to Avatar 2."
+tagline: "GLITCH, a teaser by director Garrett Warren, and the doors it opened."
 image: /assets/images/2026-10-18/glitch-hoodie-van.jpg
 ---
 
 **January 1, 2021.** New Year's Day.
 
-I posted a teaser for a project I was developing with **Garrett Warren**.
+I posted a teaser for a project I was developing with director **Garrett Warren**.
 
 It's called ***GLITCH***.
 
@@ -18,11 +18,11 @@ One line from that post: "Me in the hoodie."
 ![McKay Stewart in a dark hoodie stands in the open back doors of a white van inside a parking garage, in a frame from the GLITCH teaser](/assets/images/2026-10-18/glitch-hoodie-van.jpg)
 *Me in the hoodie, in the back of the van. Frame from the [GLITCH teaser](https://www.youtube.com/watch?v=uGJ_VsZp0dI), written and directed by Garrett Warren.*
 
-Here's the story of a **2-and-a-half-minute** teaser, a stunt legend, and the jobs that came after.
+Here's the story of a **2-and-a-half-minute** teaser, the director who made it, and the jobs that came after.
 
 ## Who is Garrett Warren?
 
-He's worked on some of the biggest action movies around.
+He's the writer and director of *GLITCH*. Before that, he worked on some of the biggest action movies around.
 
 Garrett was the **stunt coordinator** on James Cameron's *Avatar* (**2009**). He ran the stunts on *Alita: Battle Angel* (**2019**). He was **second unit director** on *Logan* (**2017**). That's the team that shoots a lot of the action.
 
