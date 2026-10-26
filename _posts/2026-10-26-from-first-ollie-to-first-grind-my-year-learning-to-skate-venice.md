@@ -3,7 +3,7 @@ layout: post
 title: "From First Ollie to First Grind: My Year Learning to Skate Venice"
 date: 2026-10-26 09:03:32 -0700
 description: "In 2021 I went from my first ollie air-out at Venice Beach Skatepark to my first backside grind, one small win at a time, with friends filming along the way."
-tagline: "One ollie, eleven firsts, and a whole lot of baby steps"
+tagline: "One ollie, a year of firsts, and a whole lot of baby steps"
 image: /assets/images/2026-10-26/first-ollie-air-venice-2021.jpg
 ---
 
