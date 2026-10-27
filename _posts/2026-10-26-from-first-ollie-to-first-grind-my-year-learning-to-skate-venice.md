@@ -11,6 +11,8 @@ image: /assets/images/2026-10-26/first-ollie-air-venice-2021.jpg
 
 I was not a kid. I was a working actor and stuntman. And on a skateboard, I was a total beginner.
 
+Government shutdowns gave me the chance. When work stopped, the parks were still there. Venice, La Puente, Santa Clarita — that's where I put the free time, learning to skate one session at a time.
+
 I posted this photo and wrote: "First ollie air-out of the bowl, whoop!"
 
 ![McKay Stewart in the air on a skateboard above the bowl at Venice Beach Skatepark, palm trees and blue sky behind him](/assets/images/2026-10-26/first-ollie-air-venice-2021.jpg)
