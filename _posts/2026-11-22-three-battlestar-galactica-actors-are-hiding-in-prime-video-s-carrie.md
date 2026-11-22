@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Six Battlestar Galactica Actors Are Hiding in Prime Video's Carrie"
+title: "Three Battlestar Galactica Actors Are Hiding in Prime Video's Carrie"
 date: 2026-11-22 08:55:05 -0800
-description: "I loved Mike Flanagan's Carrie on Prime Video, and it's a Battlestar Galactica reunion: Katee Sackhoff, Tahmoh Penikett, Michael Trucco, Aaron Douglas, Tricia Helfer and Rekha Sharma. Plus the true story of the novel Tabitha King pulled from the trash."
-tagline: "Starbuck, Helo and four more Galactica faces turn up in Mike Flanagan's take on Stephen King's first novel"
+description: "I loved Mike Flanagan's Carrie on Prime Video, and three Battlestar Galactica actors are in it: Katee Sackhoff, Tahmoh Penikett and Michael Trucco. Plus the true story of the novel Tabitha King pulled from the trash."
+tagline: "Starbuck, Helo and Samuel Anders turn up in Mike Flanagan's take on Stephen King's first novel"
 image: /assets/images/2026-11-22/carrie-poster.jpg
+redirect_from:
+  - /2026/11/22/six-battlestar-galactica-actors-are-hiding-in-prime-video-s-carrie/
 ---
 
 I'm a huge Battlestar Galactica fan. So I was watching Mike Flanagan's new **Carrie** on Prime Video, and I kept seeing faces I knew.
 
-Starbuck. Helo. Then more.
+Starbuck. Helo. And Samuel Anders.
 
 ![Prime Video key art for Carrie: a girl in a long skirt stands in a high school hallway lined with lockers as flames burn behind her. Text reads From showrunner and director Mike Flanagan, Prime original, Carrie, based on the novel by Stephen King, New series October 7](/assets/images/2026-11-22/carrie-poster.jpg)
 *Poster: Prime Video / Amazon MGM Studios, via [McKay's X post](https://x.com/mckaystewart/status/2124307660375744854).*
@@ -18,7 +20,7 @@ Starbuck. Helo. Then more.
 
 On **November 21, 2026**, I posted a reel about it on Instagram.
 
-My caption: "Two of my favorite actors together again kinda on a great series 👏🏻👏🏻 #BattlestarGalactica actors @therealkateesackhoff @peniketttahmoh @amazonmgmstudios watch it, it's great kudos to all @matthewlillard and damn the counselor… so good"
+My caption: "Two of my favorite actors together again kinda on a great series 👏🏻👏🏻 #BattlestarGalactica actors Katee Sackhoff Tahmoh Penikett Amazon MGM Studios watch it, it's great kudos to all Matthew Lillard and damn the counselor… so good"
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DgBjXwLAVG2/" data-instgrm-version="14"><a href="https://www.instagram.com/reel/DgBjXwLAVG2/">View this reel on Instagram</a></blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
@@ -28,7 +30,7 @@ On X, I added: "and oh my god also another BSG actor haha amazing!!"
 <blockquote class="twitter-tweet"><a href="https://x.com/mckaystewart/status/2124307660375744854">My post on X</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Turns out "another" was an understatement.
+That third actor is Michael Trucco.
 
 ## The show
 
@@ -40,31 +42,21 @@ Mike Flanagan is the showrunner. He wrote it, executive produced it, and directe
 
 Summer H. Howell plays Carrie White. She got the part after a search where more than **1,000** actors read for it. Samantha Sloyan plays her mother, Margaret.
 
-## The BSG reunion
+## The BSG actors
 
 Here's who I'm talking about.
 
-- **Katee Sackhoff** played Kara "Starbuck" Thrace on Battlestar Galactica. In Carrie, she shows up in **Episode 7** as Amanda, a brand-new character.
-- **Tahmoh Penikett** played Karl "Helo" Agathon. In Carrie, he plays Ralph White, Carrie's late father, seen in flashbacks.
-- **Michael Trucco** played Samuel Anders. Here he's John Hargensen, the dad of mean girl Chris Hargensen.
+- **Katee Sackhoff** played Kara "Starbuck" Thrace on Battlestar Galactica. In Carrie, she plays Amanda, Emaline's mother, and is credited in **2** episodes ([IMDb](https://www.imdb.com/title/tt11540908/fullcredits/); [Wikipedia](https://en.wikipedia.org/wiki/Carrie_(TV_series))).
+- **Tahmoh Penikett** played Karl "Helo" Agathon. In Carrie, he plays Ralph White, Carrie's late father, seen in flashbacks, and is credited in **6** episodes ([IMDb](https://www.imdb.com/title/tt11540908/fullcredits/)).
+- **Michael Trucco** played Samuel Anders. Here he's John Hargensen, the dad of mean girl Chris Hargensen, credited in **6** episodes ([IMDb](https://www.imdb.com/title/tt11540908/fullcredits/)).
 
-And then Episode 7 has a scene where parents argue about canceling prom. Look around that room:
-
-- **Aaron Douglas** (Chief Galen Tyrol) as an angry parent
-- **Tricia Helfer** (Number Six) as another parent
-- **Rekha Sharma** (Tory Foster) as a parent speaking up
-
-That's at least **6** Battlestar Galactica actors in one Stephen King series ([TV Insider](https://www.tvinsider.com/1295125/carrie-battlestar-galactica-reunion-mike-flanagan-michael-trucco-tahmoh-penikett-katee-sackhoff/)).
-
-How did it happen? Flanagan told TV Insider he already had Penikett, Sackhoff and Trucco. They needed people for that scene. Trucco offered to call Aaron Douglas. Then it snowballed into a reunion. Flanagan said, "I'm just a huge fan."
-
-Same, Mr. Flanagan. Same.
+Flanagan told TV Insider he already had Penikett, Sackhoff and Trucco in the show ([TV Insider](https://www.tvinsider.com/1295125/carrie-battlestar-galactica-reunion-mike-flanagan-michael-trucco-tahmoh-penikett-katee-sackhoff/)).
 
 ## Battlestar Galactica, quick refresher
 
 The reimagined Battlestar Galactica was developed by Ronald D. Moore. It started with a miniseries in **December 2003** on the Sci Fi Channel. Then came **4** regular seasons. The finale aired **March 20, 2009** ([Wikipedia](https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series))).
 
-Sackhoff and Penikett are both listed for **73** episodes ([TMDB](https://www.themoviedb.org/tv/1972-battlestar-galactica)).
+On IMDb, Sackhoff is listed for **72** episodes as Starbuck and Penikett for **65** as Helo ([IMDb](https://www.imdb.com/title/tt0407362/)).
 
 Starbuck was a hotshot Viper pilot. Helo was a Raptor officer. Seeing them on screen in the same show again? That's the "together again kinda" in my caption.
 
@@ -98,7 +90,7 @@ Two years later, Brian De Palma made it a movie. **Carrie** (1976) starred Sissy
 
 Both got Academy Award nominations: Spacek for Best Actress, Laurie for Best Supporting Actress ([AFI Catalog](https://catalog.afi.com/Film/55851-CARRIE)).
 
-Now, **52** years after the book, Carrie is a TV series. With half the Galactica crew in it.
+Now, **52** years after the book, Carrie is a TV series. With Starbuck, Helo and Samuel Anders in it.
 
 ## Why I posted it
 
@@ -118,8 +110,9 @@ Which Battlestar actor did you spot first? Tell me below.
 - Glenn Garner, ['Carrie' TV Show Cast Vs. Movies: Who Plays Whom](https://deadline.com/lists/carrie-tv-show-cast-vs-movies/), Deadline, September 27, 2026
 - Evan Romano, [Mike Flanagan on Carrie, Stephen King, and Remaking a Horror Classic](https://www.menshealth.com/entertainment/a74070271/carrie-mike-flanagan-interview-male-characters/), Men's Health, October 9, 2026
 - Tiffany Blem, [Interview With Tim Bagley, Star of 'Carrie' (2026)](https://pophorror.com/interview-with-tim-bagley-star-of-carrie-2026/), PopHorror, October 11, 2026
-- [Carrie (TV series 2026) cast](https://www.themoviedb.org/tv/288673-carrie/cast) and [Battlestar Galactica (2004)](https://www.themoviedb.org/tv/1972-battlestar-galactica), TMDB
-- [Battlestar Galactica (2004 TV series)](https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)), Wikipedia
+- [Carrie (TV Series 2026) full credits](https://www.imdb.com/title/tt11540908/fullcredits/) and [Battlestar Galactica (2004)](https://www.imdb.com/title/tt0407362/), IMDb
+- [Carrie (TV series 2026) cast](https://www.themoviedb.org/tv/288673-carrie/cast), TMDB
+- [Carrie (TV series)](https://en.wikipedia.org/wiki/Carrie_(TV_series)) and [Battlestar Galactica (2004 TV series)](https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)), Wikipedia
 - Stephen King, ["Carrie: the bestseller I threw in the bin"](https://www.theguardian.com/books/2000/sep/17/stephenking.fiction), excerpt from *On Writing*, The Guardian, September 17, 2000
 - Chris Nashawaty, [Stephen King interview on Carrie](https://www.hollywoodreporter.com/movies/movie-features/stephen-king-interview-horror-novel-carrie-1236753241/), The Hollywood Reporter, November 13, 2026
 - [Carrie (1976)](https://catalog.afi.com/Film/55851-CARRIE), AFI Catalog
