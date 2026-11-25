@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Down Tempo: A 29-Second Fight I Wrote, Shot and Cut"
-date: 2026-12-03 09:00:00 -0500
+date: 2026-12-03 17:00:00 -0500
 description: "Down Tempo (2020): a 29-second street fight starring Jasper Jeon and David Wachs, written, directed, shot and edited by me."
 tagline: "One wall. Two fighters. 29 seconds."
 image: /assets/images/2026-12-03/downtempo-first-hit.jpg

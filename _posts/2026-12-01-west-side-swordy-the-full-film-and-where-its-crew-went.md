@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "West Side Swordy: The Full Film and Where Its Crew Went"
-date: 2026-12-01 09:00:00 -0500
+date: 2026-12-01 17:00:00 -0500
 description: "Watch my 2015 short West Side Swordy start to finish, then see where its cast and crew went, from Star Trek to Spider-Noir."
 tagline: "The full film, and every name in the credits."
 image: /assets/images/2026-12-01/wss-spotlight-swordsman.jpg

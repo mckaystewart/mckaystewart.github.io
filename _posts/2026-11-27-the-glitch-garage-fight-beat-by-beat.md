@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The GLITCH Garage Fight, Beat by Beat"
-date: 2026-11-27 09:00:00 -0500
+date: 2026-11-27 17:00:00 -0500
 description: "A slow walk through the parking-garage fight in GLITCH, designed by director Garrett Warren, with Samuel Jaye Paul and the late Matthew Shadden."
 tagline: "One garage, one van, every beat of the GLITCH fight."
 image: /assets/images/2026-11-27/glitch-fight-hood-slam.jpg

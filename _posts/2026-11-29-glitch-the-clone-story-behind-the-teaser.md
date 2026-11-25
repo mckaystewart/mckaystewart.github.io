@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GLITCH: The Clone Story Behind the Teaser"
-date: 2026-11-29 09:00:00 -0500
+date: 2026-11-29 17:00:00 -0500
 description: "Six clones and one sandman: how GLITCH began in 2013 as a series pitch from Kevin Tancharoen, Garrett Warren and me."
 tagline: "How a 2:34 teaser became a little short film."
 image: /assets/images/2026-11-29/glitch-short-van-hood.jpg
