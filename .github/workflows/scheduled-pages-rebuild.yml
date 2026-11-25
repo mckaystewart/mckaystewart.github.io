@@ -1,12 +1,15 @@
 # Rebuilds GitHub Pages on the days future-dated posts are due.
 # Jekyll on GitHub Pages skips posts dated in the future, so each post goes
-# live at the first build after its date/time. 22:05 UTC = 5:05 PM Eastern (EST) / 2:05 PM Pacific.
+# live at the first build after its date/time. Each cron runs ~5 min after
+# that day's post time (post times vary on purpose; Eastern = UTC-5 in Nov/Dec).
 # Scheduled runs only act in 2026, so the cron does not repeat next year.
 name: Scheduled Pages rebuild
 on:
   schedule:
-    - cron: "5 22 27,29 11 *"   # Nov 27 and Nov 29
-    - cron: "5 22 1,3 12 *"     # Dec 1 and Dec 3
+    - cron: "52 21 27 11 *"   # Nov 27: post 4:47 PM ET, rebuild 4:52 PM ET
+    - cron: "28 22 29 11 *"   # Nov 29: post 5:23 PM ET, rebuild 5:28 PM ET
+    - cron: "43 21 1 12 *"    # Dec 1:  post 4:38 PM ET, rebuild 4:43 PM ET
+    - cron: "17 22 3 12 *"    # Dec 3:  post 5:12 PM ET, rebuild 5:17 PM ET
   workflow_dispatch:
 permissions:
   contents: read
